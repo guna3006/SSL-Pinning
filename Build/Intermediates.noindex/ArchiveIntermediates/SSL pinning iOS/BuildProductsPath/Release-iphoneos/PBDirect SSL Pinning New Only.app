@@ -1,1 +1,0 @@
-/Users/gunasegarran/Downloads/ios-ssl-pinning-master-2/Build/Intermediates.noindex/ArchiveIntermediates/SSL pinning iOS/InstallationBuildProductsLocation/Applications/PBDirect SSL Pinning New Only.app

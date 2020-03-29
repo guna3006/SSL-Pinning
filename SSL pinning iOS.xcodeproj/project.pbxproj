@@ -17,6 +17,7 @@
 		49D047931B2B113D006F4AC1 /* NSURLSessionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D047921B2B113D006F4AC1 /* NSURLSessionViewController.m */; };
 		AD33FC0923EBAFCA007E164A /* www.pbdirectaia.com.my.cer in Resources */ = {isa = PBXBuildFile; fileRef = AD33FC0823EBAFCA007E164A /* www.pbdirectaia.com.my.cer */; };
 		AD33FC0B23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer in Resources */ = {isa = PBXBuildFile; fileRef = AD33FC0A23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer */; };
+		ADF0104F2430E66400B676E8 /* www.pbdirectaia.com.my old.cer in Resources */ = {isa = PBXBuildFile; fileRef = ADF0104C2430E66400B676E8 /* www.pbdirectaia.com.my old.cer */; };
 		BDE5016E049437FE71624B49 /* libPods-SSL pinning iOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0255776D3810883CCD04ADA0 /* libPods-SSL pinning iOS.a */; };
 /* End PBXBuildFile section */
 
@@ -33,7 +34,7 @@
 /* Begin PBXFileReference section */
 		0255776D3810883CCD04ADA0 /* libPods-SSL pinning iOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SSL pinning iOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40E577DC506EC9E4AE8F0B6D /* Pods-SSL pinning iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SSL pinning iOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SSL pinning iOS/Pods-SSL pinning iOS.debug.xcconfig"; sourceTree = "<group>"; };
-		49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning New Only.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PBDirect SSL Pinning New Only.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PBDirect SSL Pinning.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		49D047621B2B08F6006F4AC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49D047631B2B08F6006F4AC1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		49D047651B2B08F6006F4AC1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +52,9 @@
 		546D70503AB8A72D59672842 /* Pods-SSL pinning iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SSL pinning iOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-SSL pinning iOS/Pods-SSL pinning iOS.release.xcconfig"; sourceTree = "<group>"; };
 		AD33FC0823EBAFCA007E164A /* www.pbdirectaia.com.my.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = www.pbdirectaia.com.my.cer; sourceTree = "<group>"; };
 		AD33FC0A23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = www.pbdirectaia.com.my_new.cer; sourceTree = "<group>"; };
+		ADF0104C2430E66400B676E8 /* www.pbdirectaia.com.my old.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = "www.pbdirectaia.com.my old.cer"; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my old.cer"; sourceTree = "<group>"; };
+		ADF0104D2430E66400B676E8 /* www.pbdirectaia.com.my_new.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my_new.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my_new.cer"; sourceTree = "<group>"; };
+		ADF0104E2430E66400B676E8 /* www.pbdirectaia.com.my.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my.cer"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +96,9 @@
 		49D047551B2B08F6006F4AC1 = {
 			isa = PBXGroup;
 			children = (
+				ADF0104C2430E66400B676E8 /* www.pbdirectaia.com.my old.cer */,
+				ADF0104D2430E66400B676E8 /* www.pbdirectaia.com.my_new.cer */,
+				ADF0104E2430E66400B676E8 /* www.pbdirectaia.com.my.cer */,
 				49D047601B2B08F6006F4AC1 /* SSL pinning iOS */,
 				49D0477A1B2B08F6006F4AC1 /* SSL pinning iOSTests */,
 				49D0475F1B2B08F6006F4AC1 /* Products */,
@@ -103,7 +110,7 @@
 		49D0475F1B2B08F6006F4AC1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning New Only.app */,
+				49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning.app */,
 				49D047771B2B08F6006F4AC1 /* SSL pinning iOSTests.xctest */,
 			);
 			name = Products;
@@ -190,7 +197,7 @@
 			);
 			name = "SSL pinning iOS";
 			productName = "SSL pinning iOS";
-			productReference = 49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning New Only.app */;
+			productReference = 49D0475E1B2B08F6006F4AC1 /* PBDirect SSL Pinning.app */;
 			productType = "com.apple.product-type.application";
 		};
 		49D047761B2B08F6006F4AC1 /* SSL pinning iOSTests */ = {
@@ -256,10 +263,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADF0104F2430E66400B676E8 /* www.pbdirectaia.com.my old.cer in Resources */,
+				AD33FC0B23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer in Resources */,
+				AD33FC0923EBAFCA007E164A /* www.pbdirectaia.com.my.cer in Resources */,
 				49D0476D1B2B08F6006F4AC1 /* Main.storyboard in Resources */,
 				49D047721B2B08F6006F4AC1 /* LaunchScreen.xib in Resources */,
-				AD33FC0923EBAFCA007E164A /* www.pbdirectaia.com.my.cer in Resources */,
-				AD33FC0B23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer in Resources */,
 				49D0476F1B2B08F6006F4AC1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -461,9 +469,9 @@
 				DEVELOPMENT_TEAM = C3CBHTX5N7;
 				INFOPLIST_FILE = "SSL pinning iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.prod.pbDirectAI;
-				PRODUCT_NAME = "PBDirect SSL Pinning New Only";
-				PROVISIONING_PROFILE_SPECIFIER = AI_Extractor_2020;
+				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.UAT.pbDirectAI;
+				PRODUCT_NAME = "PBDirect SSL Pinning";
+				PROVISIONING_PROFILE_SPECIFIER = "2020_UAT_AI Extractor";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -478,9 +486,9 @@
 				DEVELOPMENT_TEAM = C3CBHTX5N7;
 				INFOPLIST_FILE = "SSL pinning iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.prod.pbDirectAI;
-				PRODUCT_NAME = "PBDirect SSL Pinning New Only";
-				PROVISIONING_PROFILE_SPECIFIER = AI_Extractor_2020;
+				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.UAT.pbDirectAI;
+				PRODUCT_NAME = "PBDirect SSL Pinning";
+				PROVISIONING_PROFILE_SPECIFIER = "2020_UAT_AI Extractor";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

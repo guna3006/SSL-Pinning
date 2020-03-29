@@ -1,0 +1,1645 @@
+BCSymbolMap Version: 2.0
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_PROTOCOL_$_UIApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+_OBJC_CLASS_$_AppDelegate
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+/Users/gunasegarran/Documents/SSL-Pinning/SSL pinning iOS/AppDelegate.m
+/Users/gunasegarran/Documents/SSL-Pinning
+SSL pinning iOS/AppDelegate.m
+SSL pinning iOS/AppDelegate.h
+-[AFNetworkingViewController fetchData:]
+___40-[AFNetworkingViewController fetchData:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+___40-[AFNetworkingViewController fetchData:]_block_invoke.58
+-[AFNetworkingViewController textFieldShouldReturn:]
+-[AFNetworkingViewController urlField]
+-[AFNetworkingViewController setUrlField:]
+-[AFNetworkingViewController activityIndicator]
+-[AFNetworkingViewController setActivityIndicator:]
+-[AFNetworkingViewController dataTextView]
+-[AFNetworkingViewController setDataTextView:]
+-[AFNetworkingViewController .cxx_destruct]
+_OBJC_CLASS_$_AFHTTPRequestOperationManager
+_OBJC_CLASS_$_AFSecurityPolicy
+_OBJC_CLASS_$_AFHTTPResponseSerializer
+___block_descriptor_40_e8_32s_e35_v24?0"AFHTTPRequestOperation"816l
+___block_descriptor_40_e8_32s_e44_v24?0"AFHTTPRequestOperation"8"NSError"16l
+_OBJC_IVAR_$_AFNetworkingViewController._urlField
+_OBJC_IVAR_$_AFNetworkingViewController._activityIndicator
+_OBJC_IVAR_$_AFNetworkingViewController._dataTextView
+__OBJC_PROTOCOL_$_UITextFieldDelegate
+__OBJC_LABEL_PROTOCOL_$_UITextFieldDelegate
+_OBJC_METACLASS_$_AFNetworkingViewController
+_OBJC_CLASS_$_AFNetworkingViewController
+/Users/gunasegarran/Documents/SSL-Pinning/SSL pinning iOS/Controllers/AFNetworkingViewController.m
+SSL pinning iOS/Controllers/AFNetworkingViewController.m
+__40-[AFNetworkingViewController fetchData:]_block_invoke.58
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__40-[AFNetworkingViewController fetchData:]_block_invoke
+/Users/gunasegarran/Documents/SSL-Pinning/SSL pinning iOS/main.m
+main
+SSL pinning iOS/main.m
+-[NSURLSessionViewController viewDidLoad]
+-[NSURLSessionViewController loadDataHandler:]
+___46-[NSURLSessionViewController loadDataHandler:]_block_invoke
+___46-[NSURLSessionViewController loadDataHandler:]_block_invoke_2
+___copy_helper_block_e8_32s40s48s
+___destroy_helper_block_e8_32s40s48s
+-[NSURLSessionViewController URLSession:didReceiveChallenge:completionHandler:]
+-[NSURLSessionViewController urlSession]
+-[NSURLSessionViewController setUrlSession:]
+-[NSURLSessionViewController textField]
+-[NSURLSessionViewController setTextField:]
+-[NSURLSessionViewController activityIndicator]
+-[NSURLSessionViewController setActivityIndicator:]
+-[NSURLSessionViewController textView]
+-[NSURLSessionViewController setTextView:]
+-[NSURLSessionViewController .cxx_destruct]
+_OBJC_CLASS_$_NSURLSessionViewController
+___block_descriptor_56_e8_32s40s48s_e5_v8?0l
+___block_descriptor_40_e8_32s_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+_OBJC_IVAR_$_NSURLSessionViewController._urlSession
+_OBJC_IVAR_$_NSURLSessionViewController._textField
+_OBJC_IVAR_$_NSURLSessionViewController._activityIndicator
+_OBJC_IVAR_$_NSURLSessionViewController._textView
+__OBJC_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_PROTOCOL_$_NSURLSessionTaskDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionTaskDelegate
+_OBJC_METACLASS_$_NSURLSessionViewController
+/Users/gunasegarran/Documents/SSL-Pinning/SSL pinning iOS/Controllers/NSURLSessionViewController.m
+SSL pinning iOS/Controllers/NSURLSessionViewController.m
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48s
+__46-[NSURLSessionViewController loadDataHandler:]_block_invoke_2
+__46-[NSURLSessionViewController loadDataHandler:]_block_invoke
+-[AFHTTPRequestOperation initWithRequest:]
+-[AFHTTPRequestOperation setResponseSerializer:]
+-[AFHTTPRequestOperation responseObject]
+-[AFHTTPRequestOperation error]
+-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]
+___64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke
+___64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_2
+___64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_3
+___copy_helper_block_e8_32b40s
+___destroy_helper_block_e8_32s40s
+___64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke.31
+___64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_2.32
+___copy_helper_block_e8_32b40s48s
+___copy_helper_block_e8_32s40b48b
+-[AFHTTPRequestOperation pause]
++[AFHTTPRequestOperation supportsSecureCoding]
+-[AFHTTPRequestOperation initWithCoder:]
+-[AFHTTPRequestOperation encodeWithCoder:]
+-[AFHTTPRequestOperation copyWithZone:]
+-[AFHTTPRequestOperation responseSerializer]
+-[AFHTTPRequestOperation setResponseObject:]
+-[AFHTTPRequestOperation responseSerializationError]
+-[AFHTTPRequestOperation setResponseSerializationError:]
+-[AFHTTPRequestOperation .cxx_destruct]
+___http_request_operation_processing_queue_block_invoke
+_http_request_operation_completion_group
+___http_request_operation_completion_group_block_invoke
+_OBJC_CLASS_$_AFHTTPRequestOperation
+_OBJC_IVAR_$_AFHTTPRequestOperation._responseSerializer
+_OBJC_IVAR_$_AFHTTPRequestOperation._responseObject
+_OBJC_IVAR_$_AFHTTPRequestOperation._responseSerializationError
+___block_descriptor_48_e8_32bs40s_e5_v8?0l
+___block_descriptor_56_e8_32bs40s48s_e5_v8?0l
+___block_descriptor_56_e8_32s40bs48bs_e5_v8?0l
+_OBJC_METACLASS_$_AFURLConnectionOperation
+_OBJC_METACLASS_$_AFHTTPRequestOperation
+_OBJC_CLASS_$_AFURLConnectionOperation
+_http_request_operation_processing_queue.af_http_request_operation_processing_queue
+_http_request_operation_processing_queue.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_http_request_operation_completion_group.af_http_request_operation_completion_group
+_http_request_operation_completion_group.onceToken
+___block_literal_global.112
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+/Users/gunasegarran/Documents/SSL-Pinning/Pods
+__http_request_operation_completion_group_block_invoke
+AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+http_request_operation_completion_group
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/dispatch/once.h
+__http_request_operation_processing_queue_block_invoke
+AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+__copy_helper_block_e8_32s40b48b
+__copy_helper_block_e8_32b40s48s
+__64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_2.32
+__64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke.31
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32b40s
+__64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_3
+__64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke_2
+__64-[AFHTTPRequestOperation setCompletionBlockWithSuccess:failure:]_block_invoke
+http_request_operation_processing_queue
++[AFHTTPRequestOperationManager manager]
+-[AFHTTPRequestOperationManager init]
+-[AFHTTPRequestOperationManager initWithBaseURL:]
+-[AFHTTPRequestOperationManager setRequestSerializer:]
+-[AFHTTPRequestOperationManager setResponseSerializer:]
+-[AFHTTPRequestOperationManager HTTPRequestOperationWithHTTPMethod:URLString:parameters:success:failure:]
+___105-[AFHTTPRequestOperationManager HTTPRequestOperationWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke
+-[AFHTTPRequestOperationManager HTTPRequestOperationWithRequest:success:failure:]
+-[AFHTTPRequestOperationManager GET:parameters:success:failure:]
+-[AFHTTPRequestOperationManager HEAD:parameters:success:failure:]
+___65-[AFHTTPRequestOperationManager HEAD:parameters:success:failure:]_block_invoke
+___copy_helper_block_e8_32b
+-[AFHTTPRequestOperationManager POST:parameters:success:failure:]
+-[AFHTTPRequestOperationManager POST:parameters:constructingBodyWithBlock:success:failure:]
+___91-[AFHTTPRequestOperationManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke
+-[AFHTTPRequestOperationManager PUT:parameters:success:failure:]
+-[AFHTTPRequestOperationManager PATCH:parameters:success:failure:]
+-[AFHTTPRequestOperationManager DELETE:parameters:success:failure:]
+-[AFHTTPRequestOperationManager description]
++[AFHTTPRequestOperationManager supportsSecureCoding]
+-[AFHTTPRequestOperationManager initWithCoder:]
+-[AFHTTPRequestOperationManager encodeWithCoder:]
+-[AFHTTPRequestOperationManager copyWithZone:]
+-[AFHTTPRequestOperationManager baseURL]
+-[AFHTTPRequestOperationManager setBaseURL:]
+-[AFHTTPRequestOperationManager requestSerializer]
+-[AFHTTPRequestOperationManager responseSerializer]
+-[AFHTTPRequestOperationManager operationQueue]
+-[AFHTTPRequestOperationManager setOperationQueue:]
+-[AFHTTPRequestOperationManager shouldUseCredentialStorage]
+-[AFHTTPRequestOperationManager setShouldUseCredentialStorage:]
+-[AFHTTPRequestOperationManager credential]
+-[AFHTTPRequestOperationManager setCredential:]
+-[AFHTTPRequestOperationManager securityPolicy]
+-[AFHTTPRequestOperationManager setSecurityPolicy:]
+-[AFHTTPRequestOperationManager reachabilityManager]
+-[AFHTTPRequestOperationManager setReachabilityManager:]
+-[AFHTTPRequestOperationManager completionQueue]
+-[AFHTTPRequestOperationManager setCompletionQueue:]
+-[AFHTTPRequestOperationManager completionGroup]
+-[AFHTTPRequestOperationManager setCompletionGroup:]
+-[AFHTTPRequestOperationManager .cxx_destruct]
+_OBJC_CLASS_$_AFHTTPRequestSerializer
+_OBJC_CLASS_$_AFJSONResponseSerializer
+_OBJC_CLASS_$_AFNetworkReachabilityManager
+___block_descriptor_40_e8_32bs_e35_v24?0"AFHTTPRequestOperation"816l
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_PROTOCOL_$_NSSecureCoding
+__OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+_OBJC_METACLASS_$_AFHTTPRequestOperationManager
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._shouldUseCredentialStorage
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._baseURL
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._requestSerializer
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._responseSerializer
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._operationQueue
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._credential
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._securityPolicy
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._reachabilityManager
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._completionQueue
+_OBJC_IVAR_$_AFHTTPRequestOperationManager._completionGroup
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+__91-[AFHTTPRequestOperationManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke
+__copy_helper_block_e8_32b
+__65-[AFHTTPRequestOperationManager HEAD:parameters:success:failure:]_block_invoke
+__105-[AFHTTPRequestOperationManager HTTPRequestOperationWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke
++[AFHTTPSessionManager manager]
+-[AFHTTPSessionManager init]
+-[AFHTTPSessionManager initWithBaseURL:]
+-[AFHTTPSessionManager initWithSessionConfiguration:]
+-[AFHTTPSessionManager initWithBaseURL:sessionConfiguration:]
+-[AFHTTPSessionManager setRequestSerializer:]
+-[AFHTTPSessionManager setResponseSerializer:]
+-[AFHTTPSessionManager GET:parameters:success:failure:]
+-[AFHTTPSessionManager HEAD:parameters:success:failure:]
+___56-[AFHTTPSessionManager HEAD:parameters:success:failure:]_block_invoke
+-[AFHTTPSessionManager POST:parameters:success:failure:]
+-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:success:failure:]
+___82-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___82-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke.53
+___copy_helper_block_e8_32b40b48r
+___destroy_helper_block_e8_32s40s48r
+-[AFHTTPSessionManager PUT:parameters:success:failure:]
+-[AFHTTPSessionManager PATCH:parameters:success:failure:]
+-[AFHTTPSessionManager DELETE:parameters:success:failure:]
+-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:success:failure:]
+___84-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke
+___84-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke_2
+-[AFHTTPSessionManager description]
++[AFHTTPSessionManager supportsSecureCoding]
+-[AFHTTPSessionManager initWithCoder:]
+-[AFHTTPSessionManager encodeWithCoder:]
+-[AFHTTPSessionManager copyWithZone:]
+-[AFHTTPSessionManager baseURL]
+-[AFHTTPSessionManager setBaseURL:]
+-[AFHTTPSessionManager requestSerializer]
+-[AFHTTPSessionManager .cxx_destruct]
+_OBJC_CLASS_$_AFHTTPSessionManager
+_OBJC_IVAR_$_AFHTTPSessionManager._requestSerializer
+___block_descriptor_40_e8_32bs_e33_v24?0"NSURLSessionDataTask"816l
+___block_descriptor_56_e8_32bs40bs48r_e38_v32?0"NSURLResponse"816"NSError"24l
+l_OBJC_PROTOCOL_REFERENCE_$_NSCoding
+_OBJC_IVAR_$_AFHTTPSessionManager._baseURL
+_OBJC_METACLASS_$_AFURLSessionManager
+_OBJC_METACLASS_$_AFHTTPSessionManager
+_OBJC_CLASS_$_AFURLSessionManager
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+AFNetworking/AFNetworking/AFHTTPSessionManager.m
+AFNetworking/AFNetworking/AFHTTPSessionManager.h
+__84-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke_2
+__84-[AFHTTPSessionManager dataTaskWithHTTPMethod:URLString:parameters:success:failure:]_block_invoke
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32b40b48r
+__82-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke.53
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__82-[AFHTTPSessionManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke
+__56-[AFHTTPSessionManager HEAD:parameters:success:failure:]_block_invoke
++[AFNetworkActivityIndicatorManager sharedManager]
+___50+[AFNetworkActivityIndicatorManager sharedManager]_block_invoke
+___copy_helper_block_e8_
+___destroy_helper_block_e8_
++[AFNetworkActivityIndicatorManager keyPathsForValuesAffectingIsNetworkActivityIndicatorVisible]
+-[AFNetworkActivityIndicatorManager init]
+-[AFNetworkActivityIndicatorManager dealloc]
+-[AFNetworkActivityIndicatorManager updateNetworkActivityIndicatorVisibilityDelayed]
+-[AFNetworkActivityIndicatorManager isNetworkActivityIndicatorVisible]
+-[AFNetworkActivityIndicatorManager updateNetworkActivityIndicatorVisibility]
+-[AFNetworkActivityIndicatorManager setActivityCount:]
+___54-[AFNetworkActivityIndicatorManager setActivityCount:]_block_invoke
+-[AFNetworkActivityIndicatorManager incrementActivityCount]
+___59-[AFNetworkActivityIndicatorManager incrementActivityCount]_block_invoke
+-[AFNetworkActivityIndicatorManager decrementActivityCount]
+___59-[AFNetworkActivityIndicatorManager decrementActivityCount]_block_invoke
+-[AFNetworkActivityIndicatorManager networkRequestDidStart:]
+_AFNetworkRequestFromNotification
+-[AFNetworkActivityIndicatorManager networkRequestDidFinish:]
+-[AFNetworkActivityIndicatorManager isEnabled]
+-[AFNetworkActivityIndicatorManager setEnabled:]
+-[AFNetworkActivityIndicatorManager activityCount]
+-[AFNetworkActivityIndicatorManager activityIndicatorVisibilityTimer]
+-[AFNetworkActivityIndicatorManager setActivityIndicatorVisibilityTimer:]
+-[AFNetworkActivityIndicatorManager .cxx_destruct]
+_sharedManager._sharedManager
+_sharedManager.oncePredicate
+___block_descriptor_40_e8__e5_v8?0l
+_OBJC_CLASS_$_AFNetworkActivityIndicatorManager
+_AFNetworkingOperationDidStartNotification
+_AFNetworkingOperationDidFinishNotification
+_AFNetworkingTaskDidResumeNotification
+_AFNetworkingTaskDidSuspendNotification
+_AFNetworkingTaskDidCompleteNotification
+___block_descriptor_40_e8_32s_e5_v8?0l
+_OBJC_METACLASS_$_AFNetworkActivityIndicatorManager
+_OBJC_IVAR_$_AFNetworkActivityIndicatorManager._enabled
+_OBJC_IVAR_$_AFNetworkActivityIndicatorManager._activityCount
+_OBJC_IVAR_$_AFNetworkActivityIndicatorManager._activityIndicatorVisibilityTimer
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+AFNetworkRequestFromNotification
+__59-[AFNetworkActivityIndicatorManager decrementActivityCount]_block_invoke
+__59-[AFNetworkActivityIndicatorManager incrementActivityCount]_block_invoke
+__54-[AFNetworkActivityIndicatorManager setActivityCount:]_block_invoke
+__destroy_helper_block_e8_
+__copy_helper_block_e8_
+__50+[AFNetworkActivityIndicatorManager sharedManager]_block_invoke
+_OBJC_METACLASS_$_PodsDummy_AFNetworking
+_OBJC_CLASS_$_PodsDummy_AFNetworking
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m
+_AFStringFromNetworkReachabilityStatus
++[AFNetworkReachabilityManager sharedManager]
+___45+[AFNetworkReachabilityManager sharedManager]_block_invoke
++[AFNetworkReachabilityManager managerForDomain:]
++[AFNetworkReachabilityManager managerForAddress:]
+-[AFNetworkReachabilityManager initWithReachability:]
+-[AFNetworkReachabilityManager init]
+-[AFNetworkReachabilityManager dealloc]
+-[AFNetworkReachabilityManager isReachable]
+-[AFNetworkReachabilityManager isReachableViaWWAN]
+-[AFNetworkReachabilityManager isReachableViaWiFi]
+-[AFNetworkReachabilityManager startMonitoring]
+___47-[AFNetworkReachabilityManager startMonitoring]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+_AFNetworkReachabilityRetainCallback
+_AFNetworkReachabilityReleaseCallback
+_AFNetworkReachabilityCallback
+___47-[AFNetworkReachabilityManager startMonitoring]_block_invoke.47
+_AFPostReachabilityStatusChange
+___copy_helper_block_e8_32s40b
+-[AFNetworkReachabilityManager stopMonitoring]
+-[AFNetworkReachabilityManager localizedNetworkReachabilityStatusString]
+-[AFNetworkReachabilityManager setReachabilityStatusChangeBlock:]
++[AFNetworkReachabilityManager keyPathsForValuesAffectingValueForKey:]
+-[AFNetworkReachabilityManager networkReachabilityStatus]
+-[AFNetworkReachabilityManager setNetworkReachabilityStatus:]
+-[AFNetworkReachabilityManager networkReachability]
+-[AFNetworkReachabilityManager setNetworkReachability:]
+-[AFNetworkReachabilityManager networkReachabilityStatusBlock]
+-[AFNetworkReachabilityManager setNetworkReachabilityStatusBlock:]
+-[AFNetworkReachabilityManager .cxx_destruct]
+___AFPostReachabilityStatusChange_block_invoke
+_AFNetworkingReachabilityDidChangeNotification
+_AFNetworkingReachabilityNotificationStatusItem
+_sharedManager.onceToken
+___block_descriptor_40_e8_32w_e8_v16?0q8l
+___block_descriptor_48_e8_32s40bs_e5_v8?0l
+_OBJC_METACLASS_$_AFNetworkReachabilityManager
+_OBJC_IVAR_$_AFNetworkReachabilityManager._networkReachabilityStatus
+_OBJC_IVAR_$_AFNetworkReachabilityManager._networkReachability
+_OBJC_IVAR_$_AFNetworkReachabilityManager._networkReachabilityStatusBlock
+___block_descriptor_48_e8_32bs_e5_v8?0l
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+__AFPostReachabilityStatusChange_block_invoke
+AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+__copy_helper_block_e8_32s40b
+AFPostReachabilityStatusChange
+AFNetworkReachabilityStatusForFlags
+__47-[AFNetworkReachabilityManager startMonitoring]_block_invoke.47
+AFNetworkReachabilityCallback
+AFNetworkReachabilityReleaseCallback
+AFNetworkReachabilityRetainCallback
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__47-[AFNetworkReachabilityManager startMonitoring]_block_invoke
+__45+[AFNetworkReachabilityManager sharedManager]_block_invoke
+AFStringFromNetworkReachabilityStatus
++[AFSecurityPolicy defaultPinnedCertificates]
+___45+[AFSecurityPolicy defaultPinnedCertificates]_block_invoke
++[AFSecurityPolicy defaultPolicy]
++[AFSecurityPolicy policyWithPinningMode:]
+-[AFSecurityPolicy init]
+-[AFSecurityPolicy setPinnedCertificates:]
+-[AFSecurityPolicy evaluateServerTrust:]
+-[AFSecurityPolicy evaluateServerTrust:forDomain:]
++[AFSecurityPolicy keyPathsForValuesAffectingPinnedPublicKeys]
++[AFSecurityPolicy supportsSecureCoding]
+-[AFSecurityPolicy initWithCoder:]
+-[AFSecurityPolicy encodeWithCoder:]
+-[AFSecurityPolicy copyWithZone:]
+-[AFSecurityPolicy SSLPinningMode]
+-[AFSecurityPolicy setSSLPinningMode:]
+-[AFSecurityPolicy pinnedCertificates]
+-[AFSecurityPolicy allowInvalidCertificates]
+-[AFSecurityPolicy setAllowInvalidCertificates:]
+-[AFSecurityPolicy validatesDomainName]
+-[AFSecurityPolicy setValidatesDomainName:]
+-[AFSecurityPolicy pinnedPublicKeys]
+-[AFSecurityPolicy setPinnedPublicKeys:]
+-[AFSecurityPolicy .cxx_destruct]
+_defaultPinnedCertificates._defaultPinnedCertificates
+_defaultPinnedCertificates.onceToken
+_OBJC_METACLASS_$_AFSecurityPolicy
+_OBJC_IVAR_$_AFSecurityPolicy._allowInvalidCertificates
+_OBJC_IVAR_$_AFSecurityPolicy._validatesDomainName
+_OBJC_IVAR_$_AFSecurityPolicy._SSLPinningMode
+_OBJC_IVAR_$_AFSecurityPolicy._pinnedCertificates
+_OBJC_IVAR_$_AFSecurityPolicy._pinnedPublicKeys
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+AFNetworking/AFNetworking/AFSecurityPolicy.m
+AFNetworking/AFNetworking/AFSecurityPolicy.h
+AFSecKeyIsEqualToKey
+AFPublicKeyTrustChainForServerTrust
+AFServerTrustIsValid
+AFCertificateTrustChainForServerTrust
+AFPublicKeyForCertificate
+__45+[AFSecurityPolicy defaultPinnedCertificates]_block_invoke
++[AFURLConnectionOperation networkRequestThreadEntryPoint:]
++[AFURLConnectionOperation networkRequestThread]
+___48+[AFURLConnectionOperation networkRequestThread]_block_invoke
+-[AFURLConnectionOperation initWithRequest:]
+-[AFURLConnectionOperation init]
+-[AFURLConnectionOperation dealloc]
+-[AFURLConnectionOperation setResponseData:]
+-[AFURLConnectionOperation responseString]
+-[AFURLConnectionOperation responseStringEncoding]
+-[AFURLConnectionOperation inputStream]
+-[AFURLConnectionOperation setInputStream:]
+-[AFURLConnectionOperation outputStream]
+-[AFURLConnectionOperation setOutputStream:]
+-[AFURLConnectionOperation setShouldExecuteAsBackgroundTaskWithExpirationHandler:]
+___82-[AFURLConnectionOperation setShouldExecuteAsBackgroundTaskWithExpirationHandler:]_block_invoke
+___copy_helper_block_e8_32r
+___destroy_helper_block_e8_32r
+___82-[AFURLConnectionOperation setShouldExecuteAsBackgroundTaskWithExpirationHandler:]_block_invoke.97
+___copy_helper_block_e8_32b40w
+___destroy_helper_block_e8_32s40w
+-[AFURLConnectionOperation setState:]
+-[AFURLConnectionOperation pause]
+___33-[AFURLConnectionOperation pause]_block_invoke
+-[AFURLConnectionOperation operationDidPause]
+-[AFURLConnectionOperation isPaused]
+-[AFURLConnectionOperation resume]
+-[AFURLConnectionOperation setUploadProgressBlock:]
+-[AFURLConnectionOperation setDownloadProgressBlock:]
+-[AFURLConnectionOperation setWillSendRequestForAuthenticationChallengeBlock:]
+-[AFURLConnectionOperation setCacheResponseBlock:]
+-[AFURLConnectionOperation setRedirectResponseBlock:]
+-[AFURLConnectionOperation setCompletionBlock:]
+___47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke
+___47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke_2
+___47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke.153
+-[AFURLConnectionOperation isReady]
+-[AFURLConnectionOperation isExecuting]
+-[AFURLConnectionOperation isFinished]
+-[AFURLConnectionOperation isConcurrent]
+-[AFURLConnectionOperation start]
+-[AFURLConnectionOperation operationDidStart]
+___45-[AFURLConnectionOperation operationDidStart]_block_invoke
+-[AFURLConnectionOperation finish]
+___34-[AFURLConnectionOperation finish]_block_invoke
+-[AFURLConnectionOperation cancel]
+-[AFURLConnectionOperation cancelConnection]
++[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke.197
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2.198
+___copy_helper_block_e8_32b40s48r
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke.205
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2.206
+___83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_3
+___copy_helper_block_e8_32b40s48b56r
+___destroy_helper_block_e8_32s40s48s56r
+___copy_helper_block_e8_32b40s48b56r64w
+___destroy_helper_block_e8_32s40s48s56r64w
+-[AFURLConnectionOperation description]
+-[AFURLConnectionOperation connection:willSendRequestForAuthenticationChallenge:]
+-[AFURLConnectionOperation connectionShouldUseCredentialStorage:]
+-[AFURLConnectionOperation connection:willSendRequest:redirectResponse:]
+-[AFURLConnectionOperation connection:didSendBodyData:totalBytesWritten:totalBytesExpectedToWrite:]
+___99-[AFURLConnectionOperation connection:didSendBodyData:totalBytesWritten:totalBytesExpectedToWrite:]_block_invoke
+-[AFURLConnectionOperation connection:didReceiveResponse:]
+-[AFURLConnectionOperation connection:didReceiveData:]
+___54-[AFURLConnectionOperation connection:didReceiveData:]_block_invoke
+-[AFURLConnectionOperation connectionDidFinishLoading:]
+-[AFURLConnectionOperation connection:didFailWithError:]
+-[AFURLConnectionOperation connection:willCacheResponse:]
++[AFURLConnectionOperation supportsSecureCoding]
+-[AFURLConnectionOperation initWithCoder:]
+-[AFURLConnectionOperation encodeWithCoder:]
+-[AFURLConnectionOperation copyWithZone:]
+-[AFURLConnectionOperation runLoopModes]
+-[AFURLConnectionOperation setRunLoopModes:]
+-[AFURLConnectionOperation request]
+-[AFURLConnectionOperation setRequest:]
+-[AFURLConnectionOperation response]
+-[AFURLConnectionOperation setResponse:]
+-[AFURLConnectionOperation error]
+-[AFURLConnectionOperation setError:]
+-[AFURLConnectionOperation responseData]
+-[AFURLConnectionOperation shouldUseCredentialStorage]
+-[AFURLConnectionOperation setShouldUseCredentialStorage:]
+-[AFURLConnectionOperation credential]
+-[AFURLConnectionOperation setCredential:]
+-[AFURLConnectionOperation securityPolicy]
+-[AFURLConnectionOperation setSecurityPolicy:]
+-[AFURLConnectionOperation completionQueue]
+-[AFURLConnectionOperation setCompletionQueue:]
+-[AFURLConnectionOperation completionGroup]
+-[AFURLConnectionOperation setCompletionGroup:]
+-[AFURLConnectionOperation userInfo]
+-[AFURLConnectionOperation setUserInfo:]
+-[AFURLConnectionOperation state]
+-[AFURLConnectionOperation lock]
+-[AFURLConnectionOperation setLock:]
+-[AFURLConnectionOperation connection]
+-[AFURLConnectionOperation setConnection:]
+-[AFURLConnectionOperation setResponseString:]
+-[AFURLConnectionOperation setResponseStringEncoding:]
+-[AFURLConnectionOperation totalBytesRead]
+-[AFURLConnectionOperation setTotalBytesRead:]
+-[AFURLConnectionOperation backgroundTaskCleanup]
+-[AFURLConnectionOperation setBackgroundTaskCleanup:]
+-[AFURLConnectionOperation uploadProgress]
+-[AFURLConnectionOperation setUploadProgress:]
+-[AFURLConnectionOperation downloadProgress]
+-[AFURLConnectionOperation setDownloadProgress:]
+-[AFURLConnectionOperation authenticationChallenge]
+-[AFURLConnectionOperation setAuthenticationChallenge:]
+-[AFURLConnectionOperation cacheResponse]
+-[AFURLConnectionOperation setCacheResponse:]
+-[AFURLConnectionOperation redirectResponse]
+-[AFURLConnectionOperation setRedirectResponse:]
+-[AFURLConnectionOperation .cxx_destruct]
+___url_request_operation_completion_group_block_invoke
+___url_request_operation_completion_queue_block_invoke
+_networkRequestThread._networkRequestThread
+_networkRequestThread.oncePredicate
+_OBJC_IVAR_$_AFURLConnectionOperation._state
+_OBJC_IVAR_$_AFURLConnectionOperation._outputStream
+_OBJC_IVAR_$_AFURLConnectionOperation._backgroundTaskCleanup
+_OBJC_IVAR_$_AFURLConnectionOperation._responseData
+_OBJC_IVAR_$_AFURLConnectionOperation._responseString
+_OBJC_IVAR_$_AFURLConnectionOperation._responseStringEncoding
+___block_descriptor_40_e8_32r_e5_v8?0l
+___block_descriptor_48_e8_32bs40w_e5_v8?0l
+___block_descriptor_40_e8_32bs_e5_v8?0l
+___block_descriptor_56_e8_32bs40s48r_e5_v8?0l
+___block_descriptor_32_e15_B32?08Q16^B24l
+___block_descriptor_64_e8_32bs40s48bs56r_e5_v8?0l
+___block_descriptor_72_e8_32bs40s48bs56r64w_e5_v8?0l
+___block_descriptor_64_e8_32s_e5_v8?0l
+___block_descriptor_48_e8_32s_e5_v8?0l
+_OBJC_IVAR_$_AFURLConnectionOperation._runLoopModes
+_OBJC_IVAR_$_AFURLConnectionOperation._request
+_OBJC_IVAR_$_AFURLConnectionOperation._response
+_OBJC_IVAR_$_AFURLConnectionOperation._error
+_OBJC_IVAR_$_AFURLConnectionOperation._shouldUseCredentialStorage
+_OBJC_IVAR_$_AFURLConnectionOperation._credential
+_OBJC_IVAR_$_AFURLConnectionOperation._securityPolicy
+_OBJC_IVAR_$_AFURLConnectionOperation._completionQueue
+_OBJC_IVAR_$_AFURLConnectionOperation._completionGroup
+_OBJC_IVAR_$_AFURLConnectionOperation._userInfo
+_OBJC_IVAR_$_AFURLConnectionOperation._lock
+_OBJC_IVAR_$_AFURLConnectionOperation._connection
+_OBJC_IVAR_$_AFURLConnectionOperation._totalBytesRead
+_OBJC_IVAR_$_AFURLConnectionOperation._uploadProgress
+_OBJC_IVAR_$_AFURLConnectionOperation._downloadProgress
+_OBJC_IVAR_$_AFURLConnectionOperation._authenticationChallenge
+_OBJC_IVAR_$_AFURLConnectionOperation._cacheResponse
+_OBJC_IVAR_$_AFURLConnectionOperation._redirectResponse
+__OBJC_PROTOCOL_$_NSURLConnectionDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLConnectionDelegate
+__OBJC_PROTOCOL_$_NSURLConnectionDataDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLConnectionDataDelegate
+_url_request_operation_completion_group.af_url_request_operation_completion_group
+_url_request_operation_completion_group.onceToken
+___block_literal_global.514
+_url_request_operation_completion_queue.af_url_request_operation_completion_queue
+_url_request_operation_completion_queue.onceToken
+___block_literal_global.515
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+__url_request_operation_completion_queue_block_invoke
+AFNetworking/AFNetworking/AFURLConnectionOperation.m
+__url_request_operation_completion_group_block_invoke
+AFNetworking/AFNetworking/AFURLConnectionOperation.h
+__54-[AFURLConnectionOperation connection:didReceiveData:]_block_invoke
+__99-[AFURLConnectionOperation connection:didSendBodyData:totalBytesWritten:totalBytesExpectedToWrite:]_block_invoke
+AFKeyPathFromOperationState
+__destroy_helper_block_e8_32s40s48s56r64w
+__copy_helper_block_e8_32b40s48b56r64w
+__destroy_helper_block_e8_32s40s48s56r
+__copy_helper_block_e8_32b40s48b56r
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_3
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2.206
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke.205
+__copy_helper_block_e8_32b40s48r
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2.198
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke.197
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke_2
+__83+[AFURLConnectionOperation batchOfRequestOperations:progressBlock:completionBlock:]_block_invoke
+__34-[AFURLConnectionOperation finish]_block_invoke
+__45-[AFURLConnectionOperation operationDidStart]_block_invoke
+__47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke.153
+__47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke_2
+__47-[AFURLConnectionOperation setCompletionBlock:]_block_invoke
+url_request_operation_completion_queue
+url_request_operation_completion_group
+__33-[AFURLConnectionOperation pause]_block_invoke
+AFStateTransitionIsValid
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32b40w
+__82-[AFURLConnectionOperation setShouldExecuteAsBackgroundTaskWithExpirationHandler:]_block_invoke.97
+__destroy_helper_block_e8_32r
+__copy_helper_block_e8_32r
+__82-[AFURLConnectionOperation setShouldExecuteAsBackgroundTaskWithExpirationHandler:]_block_invoke
+__48+[AFURLConnectionOperation networkRequestThread]_block_invoke
+-[AFQueryStringPair initWithField:value:]
+-[AFQueryStringPair URLEncodedStringValue]
+_AFPercentEscapedStringFromString
+-[AFQueryStringPair field]
+-[AFQueryStringPair setField:]
+-[AFQueryStringPair value]
+-[AFQueryStringPair setValue:]
+-[AFQueryStringPair .cxx_destruct]
+_AFQueryStringPairsFromDictionary
+_AFQueryStringPairsFromKeyAndValue
++[AFHTTPRequestSerializer serializer]
+-[AFHTTPRequestSerializer init]
+___31-[AFHTTPRequestSerializer init]_block_invoke
+-[AFHTTPRequestSerializer dealloc]
+-[AFHTTPRequestSerializer setAllowsCellularAccess:]
+-[AFHTTPRequestSerializer setCachePolicy:]
+-[AFHTTPRequestSerializer setHTTPShouldHandleCookies:]
+-[AFHTTPRequestSerializer setHTTPShouldUsePipelining:]
+-[AFHTTPRequestSerializer setNetworkServiceType:]
+-[AFHTTPRequestSerializer setTimeoutInterval:]
+-[AFHTTPRequestSerializer HTTPRequestHeaders]
+-[AFHTTPRequestSerializer setValue:forHTTPHeaderField:]
+-[AFHTTPRequestSerializer valueForHTTPHeaderField:]
+-[AFHTTPRequestSerializer setAuthorizationHeaderFieldWithUsername:password:]
+-[AFHTTPRequestSerializer setAuthorizationHeaderFieldWithToken:]
+-[AFHTTPRequestSerializer clearAuthorizationHeader]
+-[AFHTTPRequestSerializer setQueryStringSerializationWithStyle:]
+-[AFHTTPRequestSerializer setQueryStringSerializationWithBlock:]
+-[AFHTTPRequestSerializer requestWithMethod:URLString:parameters:]
+-[AFHTTPRequestSerializer requestWithMethod:URLString:parameters:error:]
+-[AFHTTPRequestSerializer multipartFormRequestWithMethod:URLString:parameters:constructingBodyWithBlock:]
+-[AFHTTPRequestSerializer multipartFormRequestWithMethod:URLString:parameters:constructingBodyWithBlock:error:]
+-[AFHTTPRequestSerializer requestWithMultipartFormRequest:writingStreamContentsToFile:completionHandler:]
+___105-[AFHTTPRequestSerializer requestWithMultipartFormRequest:writingStreamContentsToFile:completionHandler:]_block_invoke
+___105-[AFHTTPRequestSerializer requestWithMultipartFormRequest:writingStreamContentsToFile:completionHandler:]_block_invoke_2
+___copy_helper_block_e8_32b40r
+___destroy_helper_block_e8_32s40r
+___copy_helper_block_e8_32s40s48b56r
+-[AFHTTPRequestSerializer requestBySerializingRequest:withParameters:error:]
+___76-[AFHTTPRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+___copy_helper_block_e8_32s40s
++[AFHTTPRequestSerializer automaticallyNotifiesObserversForKey:]
+-[AFHTTPRequestSerializer observeValueForKeyPath:ofObject:change:context:]
++[AFHTTPRequestSerializer supportsSecureCoding]
+-[AFHTTPRequestSerializer initWithCoder:]
+-[AFHTTPRequestSerializer encodeWithCoder:]
+-[AFHTTPRequestSerializer copyWithZone:]
+-[AFHTTPRequestSerializer stringEncoding]
+-[AFHTTPRequestSerializer setStringEncoding:]
+-[AFHTTPRequestSerializer allowsCellularAccess]
+-[AFHTTPRequestSerializer cachePolicy]
+-[AFHTTPRequestSerializer HTTPShouldHandleCookies]
+-[AFHTTPRequestSerializer HTTPShouldUsePipelining]
+-[AFHTTPRequestSerializer networkServiceType]
+-[AFHTTPRequestSerializer timeoutInterval]
+-[AFHTTPRequestSerializer HTTPMethodsEncodingParametersInURI]
+-[AFHTTPRequestSerializer setHTTPMethodsEncodingParametersInURI:]
+-[AFHTTPRequestSerializer mutableObservedChangedKeyPaths]
+-[AFHTTPRequestSerializer setMutableObservedChangedKeyPaths:]
+-[AFHTTPRequestSerializer mutableHTTPRequestHeaders]
+-[AFHTTPRequestSerializer setMutableHTTPRequestHeaders:]
+-[AFHTTPRequestSerializer queryStringSerializationStyle]
+-[AFHTTPRequestSerializer setQueryStringSerializationStyle:]
+-[AFHTTPRequestSerializer queryStringSerialization]
+-[AFHTTPRequestSerializer setQueryStringSerialization:]
+-[AFHTTPRequestSerializer .cxx_destruct]
+-[AFStreamingMultipartFormData initWithURLRequest:stringEncoding:]
+-[AFStreamingMultipartFormData appendPartWithFileURL:name:error:]
+-[AFStreamingMultipartFormData appendPartWithFileURL:name:fileName:mimeType:error:]
+-[AFStreamingMultipartFormData appendPartWithInputStream:name:fileName:length:mimeType:]
+-[AFStreamingMultipartFormData appendPartWithFileData:name:fileName:mimeType:]
+-[AFStreamingMultipartFormData appendPartWithFormData:name:]
+-[AFStreamingMultipartFormData appendPartWithHeaders:body:]
+-[AFStreamingMultipartFormData throttleBandwidthWithPacketSize:delay:]
+-[AFStreamingMultipartFormData requestByFinalizingMultipartFormData]
+-[AFStreamingMultipartFormData request]
+-[AFStreamingMultipartFormData setRequest:]
+-[AFStreamingMultipartFormData stringEncoding]
+-[AFStreamingMultipartFormData setStringEncoding:]
+-[AFStreamingMultipartFormData boundary]
+-[AFStreamingMultipartFormData setBoundary:]
+-[AFStreamingMultipartFormData bodyStream]
+-[AFStreamingMultipartFormData setBodyStream:]
+-[AFStreamingMultipartFormData .cxx_destruct]
+-[AFMultipartBodyStream initWithStringEncoding:]
+-[AFMultipartBodyStream setInitialAndFinalBoundaries]
+-[AFMultipartBodyStream appendHTTPBodyPart:]
+-[AFMultipartBodyStream isEmpty]
+-[AFMultipartBodyStream read:maxLength:]
+-[AFMultipartBodyStream getBuffer:length:]
+-[AFMultipartBodyStream hasBytesAvailable]
+-[AFMultipartBodyStream open]
+-[AFMultipartBodyStream close]
+-[AFMultipartBodyStream propertyForKey:]
+-[AFMultipartBodyStream setProperty:forKey:]
+-[AFMultipartBodyStream scheduleInRunLoop:forMode:]
+-[AFMultipartBodyStream removeFromRunLoop:forMode:]
+-[AFMultipartBodyStream contentLength]
+-[AFMultipartBodyStream _scheduleInCFRunLoop:forMode:]
+-[AFMultipartBodyStream _unscheduleFromCFRunLoop:forMode:]
+-[AFMultipartBodyStream _setCFClientFlags:callback:context:]
+-[AFMultipartBodyStream copyWithZone:]
+-[AFMultipartBodyStream delegate]
+-[AFMultipartBodyStream setDelegate:]
+-[AFMultipartBodyStream streamStatus]
+-[AFMultipartBodyStream setStreamStatus:]
+-[AFMultipartBodyStream streamError]
+-[AFMultipartBodyStream setStreamError:]
+-[AFMultipartBodyStream numberOfBytesInPacket]
+-[AFMultipartBodyStream setNumberOfBytesInPacket:]
+-[AFMultipartBodyStream delay]
+-[AFMultipartBodyStream setDelay:]
+-[AFMultipartBodyStream inputStream]
+-[AFMultipartBodyStream setInputStream:]
+-[AFMultipartBodyStream stringEncoding]
+-[AFMultipartBodyStream setStringEncoding:]
+-[AFMultipartBodyStream HTTPBodyParts]
+-[AFMultipartBodyStream setHTTPBodyParts:]
+-[AFMultipartBodyStream HTTPBodyPartEnumerator]
+-[AFMultipartBodyStream setHTTPBodyPartEnumerator:]
+-[AFMultipartBodyStream currentHTTPBodyPart]
+-[AFMultipartBodyStream setCurrentHTTPBodyPart:]
+-[AFMultipartBodyStream outputStream]
+-[AFMultipartBodyStream setOutputStream:]
+-[AFMultipartBodyStream buffer]
+-[AFMultipartBodyStream setBuffer:]
+-[AFMultipartBodyStream .cxx_destruct]
+-[AFHTTPBodyPart init]
+-[AFHTTPBodyPart dealloc]
+-[AFHTTPBodyPart inputStream]
+-[AFHTTPBodyPart stringForHeaders]
+-[AFHTTPBodyPart contentLength]
+-[AFHTTPBodyPart hasBytesAvailable]
+-[AFHTTPBodyPart read:maxLength:]
+-[AFHTTPBodyPart readData:intoBuffer:maxLength:]
+-[AFHTTPBodyPart transitionToNextPhase]
+___39-[AFHTTPBodyPart transitionToNextPhase]_block_invoke
+-[AFHTTPBodyPart copyWithZone:]
+-[AFHTTPBodyPart stringEncoding]
+-[AFHTTPBodyPart setStringEncoding:]
+-[AFHTTPBodyPart headers]
+-[AFHTTPBodyPart setHeaders:]
+-[AFHTTPBodyPart boundary]
+-[AFHTTPBodyPart setBoundary:]
+-[AFHTTPBodyPart body]
+-[AFHTTPBodyPart setBody:]
+-[AFHTTPBodyPart bodyContentLength]
+-[AFHTTPBodyPart setBodyContentLength:]
+-[AFHTTPBodyPart setInputStream:]
+-[AFHTTPBodyPart hasInitialBoundary]
+-[AFHTTPBodyPart setHasInitialBoundary:]
+-[AFHTTPBodyPart hasFinalBoundary]
+-[AFHTTPBodyPart setHasFinalBoundary:]
+-[AFHTTPBodyPart .cxx_destruct]
++[AFJSONRequestSerializer serializer]
++[AFJSONRequestSerializer serializerWithWritingOptions:]
+-[AFJSONRequestSerializer requestBySerializingRequest:withParameters:error:]
+___76-[AFJSONRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+-[AFJSONRequestSerializer initWithCoder:]
+-[AFJSONRequestSerializer encodeWithCoder:]
+-[AFJSONRequestSerializer copyWithZone:]
+-[AFJSONRequestSerializer writingOptions]
+-[AFJSONRequestSerializer setWritingOptions:]
++[AFPropertyListRequestSerializer serializer]
++[AFPropertyListRequestSerializer serializerWithFormat:writeOptions:]
+-[AFPropertyListRequestSerializer requestBySerializingRequest:withParameters:error:]
+___84-[AFPropertyListRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+-[AFPropertyListRequestSerializer initWithCoder:]
+-[AFPropertyListRequestSerializer encodeWithCoder:]
+-[AFPropertyListRequestSerializer copyWithZone:]
+-[AFPropertyListRequestSerializer format]
+-[AFPropertyListRequestSerializer setFormat:]
+-[AFPropertyListRequestSerializer writeOptions]
+-[AFPropertyListRequestSerializer setWriteOptions:]
+_AFHTTPRequestSerializerObservedKeyPaths
+___AFHTTPRequestSerializerObservedKeyPaths_block_invoke
+_AFURLRequestSerializationErrorDomain
+_AFNetworkingOperationFailingURLRequestErrorKey
+_OBJC_CLASS_$_AFQueryStringPair
+_OBJC_METACLASS_$_AFQueryStringPair
+_OBJC_IVAR_$_AFQueryStringPair._field
+_OBJC_IVAR_$_AFQueryStringPair._value
+___block_descriptor_40_e8_32s_e15_v32?08Q16^B24l
+_AFHTTPRequestSerializerObserverContext
+_OBJC_CLASS_$_AFStreamingMultipartFormData
+___block_descriptor_48_e8_32bs40r_e5_v8?0l
+___block_descriptor_64_e8_32s40s48bs56r_e5_v8?0l
+___block_descriptor_48_e8_32s40s_e15_v32?0816^B24l
+_OBJC_METACLASS_$_AFHTTPRequestSerializer
+__OBJC_PROTOCOL_$_AFURLRequestSerialization
+__OBJC_LABEL_PROTOCOL_$_AFURLRequestSerialization
+_OBJC_IVAR_$_AFHTTPRequestSerializer._allowsCellularAccess
+_OBJC_IVAR_$_AFHTTPRequestSerializer._HTTPShouldHandleCookies
+_OBJC_IVAR_$_AFHTTPRequestSerializer._HTTPShouldUsePipelining
+_OBJC_IVAR_$_AFHTTPRequestSerializer._stringEncoding
+_OBJC_IVAR_$_AFHTTPRequestSerializer._cachePolicy
+_OBJC_IVAR_$_AFHTTPRequestSerializer._networkServiceType
+_OBJC_IVAR_$_AFHTTPRequestSerializer._timeoutInterval
+_OBJC_IVAR_$_AFHTTPRequestSerializer._HTTPMethodsEncodingParametersInURI
+_OBJC_IVAR_$_AFHTTPRequestSerializer._mutableObservedChangedKeyPaths
+_OBJC_IVAR_$_AFHTTPRequestSerializer._mutableHTTPRequestHeaders
+_OBJC_IVAR_$_AFHTTPRequestSerializer._queryStringSerializationStyle
+_OBJC_IVAR_$_AFHTTPRequestSerializer._queryStringSerialization
+_kAFUploadStream3GSuggestedPacketSize
+_kAFUploadStream3GSuggestedDelay
+_OBJC_CLASS_$_AFMultipartBodyStream
+_OBJC_CLASS_$_AFHTTPBodyPart
+__OBJC_PROTOCOL_$_AFMultipartFormData
+__OBJC_LABEL_PROTOCOL_$_AFMultipartFormData
+_OBJC_METACLASS_$_AFStreamingMultipartFormData
+_OBJC_IVAR_$_AFStreamingMultipartFormData._request
+_OBJC_IVAR_$_AFStreamingMultipartFormData._stringEncoding
+_OBJC_IVAR_$_AFStreamingMultipartFormData._boundary
+_OBJC_IVAR_$_AFStreamingMultipartFormData._bodyStream
+_OBJC_IVAR_$_AFMultipartBodyStream.delegate
+_OBJC_IVAR_$_AFMultipartBodyStream.streamStatus
+_OBJC_IVAR_$_AFMultipartBodyStream.streamError
+_OBJC_IVAR_$_AFMultipartBodyStream._numberOfBytesInPacket
+_OBJC_IVAR_$_AFMultipartBodyStream._delay
+_OBJC_IVAR_$_AFMultipartBodyStream._inputStream
+_OBJC_IVAR_$_AFMultipartBodyStream._stringEncoding
+_OBJC_IVAR_$_AFMultipartBodyStream._HTTPBodyParts
+_OBJC_IVAR_$_AFMultipartBodyStream._HTTPBodyPartEnumerator
+_OBJC_IVAR_$_AFMultipartBodyStream._currentHTTPBodyPart
+_OBJC_IVAR_$_AFMultipartBodyStream._outputStream
+_OBJC_IVAR_$_AFMultipartBodyStream._buffer
+__OBJC_PROTOCOL_$_NSStreamDelegate
+__OBJC_LABEL_PROTOCOL_$_NSStreamDelegate
+_OBJC_METACLASS_$_AFMultipartBodyStream
+_OBJC_METACLASS_$_AFHTTPBodyPart
+_OBJC_IVAR_$_AFHTTPBodyPart._phase
+_OBJC_IVAR_$_AFHTTPBodyPart._inputStream
+_OBJC_IVAR_$_AFHTTPBodyPart._phaseReadOffset
+_OBJC_IVAR_$_AFHTTPBodyPart._hasInitialBoundary
+_OBJC_IVAR_$_AFHTTPBodyPart._hasFinalBoundary
+_OBJC_IVAR_$_AFHTTPBodyPart._stringEncoding
+_OBJC_IVAR_$_AFHTTPBodyPart._headers
+_OBJC_IVAR_$_AFHTTPBodyPart._boundary
+_OBJC_IVAR_$_AFHTTPBodyPart._body
+_OBJC_IVAR_$_AFHTTPBodyPart._bodyContentLength
+_OBJC_CLASS_$_AFJSONRequestSerializer
+_OBJC_IVAR_$_AFJSONRequestSerializer._writingOptions
+_OBJC_METACLASS_$_AFJSONRequestSerializer
+_OBJC_CLASS_$_AFPropertyListRequestSerializer
+_OBJC_IVAR_$_AFPropertyListRequestSerializer._format
+_OBJC_IVAR_$_AFPropertyListRequestSerializer._writeOptions
+_OBJC_METACLASS_$_AFPropertyListRequestSerializer
+_AFHTTPRequestSerializerObservedKeyPaths._AFHTTPRequestSerializerObservedKeyPaths
+_AFHTTPRequestSerializerObservedKeyPaths.onceToken
+_AFBase64EncodedStringFromString.kAFBase64EncodingTable
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+__AFHTTPRequestSerializerObservedKeyPaths_block_invoke
+AFNetworking/AFNetworking/AFURLRequestSerialization.m
+AFHTTPRequestSerializerObservedKeyPaths
+AFNetworking/AFNetworking/AFURLRequestSerialization.h
+__84-[AFPropertyListRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+__76-[AFJSONRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+__39-[AFHTTPBodyPart transitionToNextPhase]_block_invoke
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+AFMultipartFormFinalBoundary
+AFMultipartFormEncapsulationBoundary
+AFMultipartFormInitialBoundary
+-[NSStream setStreamError:]
+-[NSStream streamError]
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSStream.h
+-[NSStream setStreamStatus:]
+-[NSStream streamStatus]
+-[NSStream setDelegate:]
+-[NSStream delegate]
+AFContentTypeForPathExtension
+AFCreateMultipartFormBoundary
+__copy_helper_block_e8_32s40s
+__76-[AFHTTPRequestSerializer requestBySerializingRequest:withParameters:error:]_block_invoke
+AFQueryStringFromParameters
+AFQueryStringPairsFromDictionary
+__copy_helper_block_e8_32s40s48b56r
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32b40r
+__105-[AFHTTPRequestSerializer requestWithMultipartFormRequest:writingStreamContentsToFile:completionHandler:]_block_invoke_2
+__105-[AFHTTPRequestSerializer requestWithMultipartFormRequest:writingStreamContentsToFile:completionHandler:]_block_invoke
+AFBase64EncodedStringFromString
+__31-[AFHTTPRequestSerializer init]_block_invoke
+AFQueryStringPairsFromKeyAndValue
+AFPercentEscapedStringFromString
++[AFHTTPResponseSerializer serializer]
+-[AFHTTPResponseSerializer init]
+-[AFHTTPResponseSerializer validateResponse:data:error:]
+_AFErrorWithUnderlyingError
+-[AFHTTPResponseSerializer responseObjectForResponse:data:error:]
++[AFHTTPResponseSerializer supportsSecureCoding]
+-[AFHTTPResponseSerializer initWithCoder:]
+-[AFHTTPResponseSerializer encodeWithCoder:]
+-[AFHTTPResponseSerializer copyWithZone:]
+-[AFHTTPResponseSerializer stringEncoding]
+-[AFHTTPResponseSerializer setStringEncoding:]
+-[AFHTTPResponseSerializer acceptableStatusCodes]
+-[AFHTTPResponseSerializer setAcceptableStatusCodes:]
+-[AFHTTPResponseSerializer acceptableContentTypes]
+-[AFHTTPResponseSerializer setAcceptableContentTypes:]
+-[AFHTTPResponseSerializer .cxx_destruct]
++[AFJSONResponseSerializer serializer]
++[AFJSONResponseSerializer serializerWithReadingOptions:]
+-[AFJSONResponseSerializer init]
+-[AFJSONResponseSerializer responseObjectForResponse:data:error:]
+_AFErrorOrUnderlyingErrorHasCodeInDomain
+_AFJSONObjectByRemovingKeysWithNullValues
+-[AFJSONResponseSerializer initWithCoder:]
+-[AFJSONResponseSerializer encodeWithCoder:]
+-[AFJSONResponseSerializer copyWithZone:]
+-[AFJSONResponseSerializer readingOptions]
+-[AFJSONResponseSerializer setReadingOptions:]
+-[AFJSONResponseSerializer removesKeysWithNullValues]
+-[AFJSONResponseSerializer setRemovesKeysWithNullValues:]
++[AFXMLParserResponseSerializer serializer]
+-[AFXMLParserResponseSerializer init]
+-[AFXMLParserResponseSerializer responseObjectForResponse:data:error:]
++[AFPropertyListResponseSerializer serializer]
++[AFPropertyListResponseSerializer serializerWithFormat:readOptions:]
+-[AFPropertyListResponseSerializer init]
+-[AFPropertyListResponseSerializer responseObjectForResponse:data:error:]
+-[AFPropertyListResponseSerializer initWithCoder:]
+-[AFPropertyListResponseSerializer encodeWithCoder:]
+-[AFPropertyListResponseSerializer copyWithZone:]
+-[AFPropertyListResponseSerializer format]
+-[AFPropertyListResponseSerializer setFormat:]
+-[AFPropertyListResponseSerializer readOptions]
+-[AFPropertyListResponseSerializer setReadOptions:]
++[UIImage(AFNetworkingSafeImageLoading) af_safeImageWithData:]
+___62+[UIImage(AFNetworkingSafeImageLoading) af_safeImageWithData:]_block_invoke
+-[AFImageResponseSerializer init]
+-[AFImageResponseSerializer responseObjectForResponse:data:error:]
+_AFImageWithDataAtScale
+-[AFImageResponseSerializer initWithCoder:]
+-[AFImageResponseSerializer encodeWithCoder:]
+-[AFImageResponseSerializer copyWithZone:]
+-[AFImageResponseSerializer imageScale]
+-[AFImageResponseSerializer setImageScale:]
+-[AFImageResponseSerializer automaticallyInflatesResponseImage]
+-[AFImageResponseSerializer setAutomaticallyInflatesResponseImage:]
++[AFCompoundResponseSerializer compoundSerializerWithResponseSerializers:]
+-[AFCompoundResponseSerializer responseObjectForResponse:data:error:]
+-[AFCompoundResponseSerializer initWithCoder:]
+-[AFCompoundResponseSerializer encodeWithCoder:]
+-[AFCompoundResponseSerializer copyWithZone:]
+-[AFCompoundResponseSerializer responseSerializers]
+-[AFCompoundResponseSerializer setResponseSerializers:]
+-[AFCompoundResponseSerializer .cxx_destruct]
+_AFURLResponseSerializationErrorDomain
+_AFNetworkingOperationFailingURLResponseErrorKey
+_AFNetworkingOperationFailingURLResponseDataErrorKey
+__OBJC_PROTOCOL_$_AFURLResponseSerialization
+__OBJC_LABEL_PROTOCOL_$_AFURLResponseSerialization
+_OBJC_METACLASS_$_AFHTTPResponseSerializer
+_OBJC_IVAR_$_AFHTTPResponseSerializer._stringEncoding
+_OBJC_IVAR_$_AFHTTPResponseSerializer._acceptableStatusCodes
+_OBJC_IVAR_$_AFHTTPResponseSerializer._acceptableContentTypes
+_OBJC_IVAR_$_AFJSONResponseSerializer._readingOptions
+_OBJC_IVAR_$_AFJSONResponseSerializer._removesKeysWithNullValues
+_OBJC_METACLASS_$_AFJSONResponseSerializer
+_OBJC_CLASS_$_AFXMLParserResponseSerializer
+_OBJC_METACLASS_$_AFXMLParserResponseSerializer
+_OBJC_CLASS_$_AFPropertyListResponseSerializer
+_OBJC_IVAR_$_AFPropertyListResponseSerializer._format
+_OBJC_IVAR_$_AFPropertyListResponseSerializer._readOptions
+_OBJC_METACLASS_$_AFPropertyListResponseSerializer
+_imageLock
+_af_safeImageWithData:.onceToken
+_OBJC_CLASS_$_AFImageResponseSerializer
+_OBJC_IVAR_$_AFImageResponseSerializer._imageScale
+_OBJC_IVAR_$_AFImageResponseSerializer._automaticallyInflatesResponseImage
+_OBJC_METACLASS_$_AFImageResponseSerializer
+_OBJC_CLASS_$_AFCompoundResponseSerializer
+_OBJC_IVAR_$_AFCompoundResponseSerializer._responseSerializers
+_OBJC_METACLASS_$_AFCompoundResponseSerializer
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+AFNetworking/AFNetworking/AFURLResponseSerialization.m
+AFNetworking/AFNetworking/AFURLResponseSerialization.h
+AFImageWithDataAtScale
+AFInflatedImageFromResponseWithDataAtScale
+__62+[UIImage(AFNetworkingSafeImageLoading) af_safeImageWithData:]_block_invoke
+AFJSONObjectByRemovingKeysWithNullValues
+AFErrorOrUnderlyingErrorHasCodeInDomain
+AFErrorWithUnderlyingError
+-[AFURLSessionManagerTaskDelegate init]
+-[AFURLSessionManagerTaskDelegate URLSession:task:didSendBodyData:totalBytesSent:totalBytesExpectedToSend:]
+-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]
+___72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke
+___72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_2
+___copy_helper_block_e8_32s40r
+___copy_helper_block_e8_32s40s48s56r64r
+___destroy_helper_block_e8_32s40s48s56r64r
+___72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke.65
+___72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_2.68
+___72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_3
+___copy_helper_block_e8_32s40s48s56s64r72r
+___destroy_helper_block_e8_32s40s48s56s64r72r
+-[AFURLSessionManagerTaskDelegate URLSession:dataTask:didReceiveData:]
+-[AFURLSessionManagerTaskDelegate URLSession:downloadTask:didFinishDownloadingToURL:]
+-[AFURLSessionManagerTaskDelegate URLSession:downloadTask:didWriteData:totalBytesWritten:totalBytesExpectedToWrite:]
+-[AFURLSessionManagerTaskDelegate URLSession:downloadTask:didResumeAtOffset:expectedTotalBytes:]
+-[AFURLSessionManagerTaskDelegate manager]
+-[AFURLSessionManagerTaskDelegate setManager:]
+-[AFURLSessionManagerTaskDelegate mutableData]
+-[AFURLSessionManagerTaskDelegate setMutableData:]
+-[AFURLSessionManagerTaskDelegate progress]
+-[AFURLSessionManagerTaskDelegate setProgress:]
+-[AFURLSessionManagerTaskDelegate downloadFileURL]
+-[AFURLSessionManagerTaskDelegate setDownloadFileURL:]
+-[AFURLSessionManagerTaskDelegate downloadTaskDidFinishDownloading]
+-[AFURLSessionManagerTaskDelegate setDownloadTaskDidFinishDownloading:]
+-[AFURLSessionManagerTaskDelegate completionHandler]
+-[AFURLSessionManagerTaskDelegate setCompletionHandler:]
+-[AFURLSessionManagerTaskDelegate .cxx_destruct]
++[_AFURLSessionTaskSwizzling load]
++[_AFURLSessionTaskSwizzling swizzleResumeAndSuspendMethodForClass:]
+-[_AFURLSessionTaskSwizzling state]
+-[_AFURLSessionTaskSwizzling af_resume]
+-[_AFURLSessionTaskSwizzling af_suspend]
+-[AFURLSessionManager init]
+-[AFURLSessionManager initWithSessionConfiguration:]
+___52-[AFURLSessionManager initWithSessionConfiguration:]_block_invoke
+-[AFURLSessionManager dealloc]
+-[AFURLSessionManager taskDescriptionForSessionTasks]
+-[AFURLSessionManager taskDidResume:]
+___37-[AFURLSessionManager taskDidResume:]_block_invoke
+-[AFURLSessionManager taskDidSuspend:]
+___38-[AFURLSessionManager taskDidSuspend:]_block_invoke
+-[AFURLSessionManager delegateForTask:]
+-[AFURLSessionManager setDelegate:forTask:]
+-[AFURLSessionManager addDelegateForDataTask:completionHandler:]
+-[AFURLSessionManager addDelegateForUploadTask:progress:completionHandler:]
+___75-[AFURLSessionManager addDelegateForUploadTask:progress:completionHandler:]_block_invoke
+___75-[AFURLSessionManager addDelegateForUploadTask:progress:completionHandler:]_block_invoke_2
+-[AFURLSessionManager addDelegateForDownloadTask:progress:destination:completionHandler:]
+___89-[AFURLSessionManager addDelegateForDownloadTask:progress:destination:completionHandler:]_block_invoke
+-[AFURLSessionManager removeDelegateForTask:]
+-[AFURLSessionManager removeAllDelegates]
+-[AFURLSessionManager tasksForKeyPath:]
+___39-[AFURLSessionManager tasksForKeyPath:]_block_invoke
+___copy_helper_block_e8_32s40s48r
+-[AFURLSessionManager tasks]
+-[AFURLSessionManager dataTasks]
+-[AFURLSessionManager uploadTasks]
+-[AFURLSessionManager downloadTasks]
+-[AFURLSessionManager invalidateSessionCancelingTasks:]
+___55-[AFURLSessionManager invalidateSessionCancelingTasks:]_block_invoke
+-[AFURLSessionManager setResponseSerializer:]
+-[AFURLSessionManager dataTaskWithRequest:completionHandler:]
+___61-[AFURLSessionManager dataTaskWithRequest:completionHandler:]_block_invoke
+-[AFURLSessionManager uploadTaskWithRequest:fromFile:progress:completionHandler:]
+___81-[AFURLSessionManager uploadTaskWithRequest:fromFile:progress:completionHandler:]_block_invoke
+___copy_helper_block_e8_32s40s48s56r
+-[AFURLSessionManager uploadTaskWithRequest:fromData:progress:completionHandler:]
+___81-[AFURLSessionManager uploadTaskWithRequest:fromData:progress:completionHandler:]_block_invoke
+-[AFURLSessionManager uploadTaskWithStreamedRequest:progress:completionHandler:]
+___80-[AFURLSessionManager uploadTaskWithStreamedRequest:progress:completionHandler:]_block_invoke
+-[AFURLSessionManager downloadTaskWithRequest:progress:destination:completionHandler:]
+___86-[AFURLSessionManager downloadTaskWithRequest:progress:destination:completionHandler:]_block_invoke
+-[AFURLSessionManager downloadTaskWithResumeData:progress:destination:completionHandler:]
+___89-[AFURLSessionManager downloadTaskWithResumeData:progress:destination:completionHandler:]_block_invoke
+-[AFURLSessionManager uploadProgressForTask:]
+-[AFURLSessionManager downloadProgressForTask:]
+-[AFURLSessionManager setSessionDidBecomeInvalidBlock:]
+-[AFURLSessionManager setSessionDidReceiveAuthenticationChallengeBlock:]
+-[AFURLSessionManager setDidFinishEventsForBackgroundURLSessionBlock:]
+-[AFURLSessionManager setTaskNeedNewBodyStreamBlock:]
+-[AFURLSessionManager setTaskWillPerformHTTPRedirectionBlock:]
+-[AFURLSessionManager setTaskDidReceiveAuthenticationChallengeBlock:]
+-[AFURLSessionManager setTaskDidSendBodyDataBlock:]
+-[AFURLSessionManager setTaskDidCompleteBlock:]
+-[AFURLSessionManager setDataTaskDidReceiveResponseBlock:]
+-[AFURLSessionManager setDataTaskDidBecomeDownloadTaskBlock:]
+-[AFURLSessionManager setDataTaskDidReceiveDataBlock:]
+-[AFURLSessionManager setDataTaskWillCacheResponseBlock:]
+-[AFURLSessionManager setDownloadTaskDidFinishDownloadingBlock:]
+-[AFURLSessionManager setDownloadTaskDidWriteDataBlock:]
+-[AFURLSessionManager setDownloadTaskDidResumeBlock:]
+-[AFURLSessionManager description]
+-[AFURLSessionManager respondsToSelector:]
+-[AFURLSessionManager URLSession:didBecomeInvalidWithError:]
+-[AFURLSessionManager URLSession:didReceiveChallenge:completionHandler:]
+-[AFURLSessionManager URLSession:task:willPerformHTTPRedirection:newRequest:completionHandler:]
+-[AFURLSessionManager URLSession:task:didReceiveChallenge:completionHandler:]
+-[AFURLSessionManager URLSession:task:needNewBodyStream:]
+-[AFURLSessionManager URLSession:task:didSendBodyData:totalBytesSent:totalBytesExpectedToSend:]
+-[AFURLSessionManager URLSession:task:didCompleteWithError:]
+-[AFURLSessionManager URLSession:dataTask:didReceiveResponse:completionHandler:]
+-[AFURLSessionManager URLSession:dataTask:didBecomeDownloadTask:]
+-[AFURLSessionManager URLSession:dataTask:didReceiveData:]
+-[AFURLSessionManager URLSession:dataTask:willCacheResponse:completionHandler:]
+-[AFURLSessionManager URLSessionDidFinishEventsForBackgroundURLSession:]
+___72-[AFURLSessionManager URLSessionDidFinishEventsForBackgroundURLSession:]_block_invoke
+-[AFURLSessionManager URLSession:downloadTask:didFinishDownloadingToURL:]
+-[AFURLSessionManager URLSession:downloadTask:didWriteData:totalBytesWritten:totalBytesExpectedToWrite:]
+-[AFURLSessionManager URLSession:downloadTask:didResumeAtOffset:expectedTotalBytes:]
++[AFURLSessionManager supportsSecureCoding]
+-[AFURLSessionManager initWithCoder:]
+-[AFURLSessionManager encodeWithCoder:]
+-[AFURLSessionManager copyWithZone:]
+-[AFURLSessionManager session]
+-[AFURLSessionManager setSession:]
+-[AFURLSessionManager operationQueue]
+-[AFURLSessionManager setOperationQueue:]
+-[AFURLSessionManager responseSerializer]
+-[AFURLSessionManager securityPolicy]
+-[AFURLSessionManager setSecurityPolicy:]
+-[AFURLSessionManager reachabilityManager]
+-[AFURLSessionManager setReachabilityManager:]
+-[AFURLSessionManager completionQueue]
+-[AFURLSessionManager setCompletionQueue:]
+-[AFURLSessionManager completionGroup]
+-[AFURLSessionManager setCompletionGroup:]
+-[AFURLSessionManager attemptsToRecreateUploadTasksForBackgroundSessions]
+-[AFURLSessionManager setAttemptsToRecreateUploadTasksForBackgroundSessions:]
+-[AFURLSessionManager sessionConfiguration]
+-[AFURLSessionManager setSessionConfiguration:]
+-[AFURLSessionManager mutableTaskDelegatesKeyedByTaskIdentifier]
+-[AFURLSessionManager setMutableTaskDelegatesKeyedByTaskIdentifier:]
+-[AFURLSessionManager lock]
+-[AFURLSessionManager setLock:]
+-[AFURLSessionManager sessionDidBecomeInvalid]
+-[AFURLSessionManager setSessionDidBecomeInvalid:]
+-[AFURLSessionManager sessionDidReceiveAuthenticationChallenge]
+-[AFURLSessionManager setSessionDidReceiveAuthenticationChallenge:]
+-[AFURLSessionManager didFinishEventsForBackgroundURLSession]
+-[AFURLSessionManager setDidFinishEventsForBackgroundURLSession:]
+-[AFURLSessionManager taskWillPerformHTTPRedirection]
+-[AFURLSessionManager setTaskWillPerformHTTPRedirection:]
+-[AFURLSessionManager taskDidReceiveAuthenticationChallenge]
+-[AFURLSessionManager setTaskDidReceiveAuthenticationChallenge:]
+-[AFURLSessionManager taskNeedNewBodyStream]
+-[AFURLSessionManager setTaskNeedNewBodyStream:]
+-[AFURLSessionManager taskDidSendBodyData]
+-[AFURLSessionManager setTaskDidSendBodyData:]
+-[AFURLSessionManager taskDidComplete]
+-[AFURLSessionManager setTaskDidComplete:]
+-[AFURLSessionManager dataTaskDidReceiveResponse]
+-[AFURLSessionManager setDataTaskDidReceiveResponse:]
+-[AFURLSessionManager dataTaskDidBecomeDownloadTask]
+-[AFURLSessionManager setDataTaskDidBecomeDownloadTask:]
+-[AFURLSessionManager dataTaskDidReceiveData]
+-[AFURLSessionManager setDataTaskDidReceiveData:]
+-[AFURLSessionManager dataTaskWillCacheResponse]
+-[AFURLSessionManager setDataTaskWillCacheResponse:]
+-[AFURLSessionManager downloadTaskDidFinishDownloading]
+-[AFURLSessionManager setDownloadTaskDidFinishDownloading:]
+-[AFURLSessionManager downloadTaskDidWriteData]
+-[AFURLSessionManager setDownloadTaskDidWriteData:]
+-[AFURLSessionManager downloadTaskDidResume]
+-[AFURLSessionManager setDownloadTaskDidResume:]
+-[AFURLSessionManager .cxx_destruct]
+_url_session_manager_completion_group
+___url_session_manager_completion_group_block_invoke
+___url_session_manager_processing_queue_block_invoke
+_url_session_manager_creation_queue
+___url_session_manager_creation_queue_block_invoke
+_AFURLSessionDidInvalidateNotification
+_AFURLSessionDownloadTaskDidFailToMoveFileNotification
+_AFNetworkingTaskDidStartNotification
+_AFNetworkingTaskDidFinishNotification
+_AFNetworkingTaskDidCompleteSerializedResponseKey
+_AFNetworkingTaskDidCompleteResponseSerializerKey
+_AFNetworkingTaskDidCompleteResponseDataKey
+_AFNetworkingTaskDidCompleteErrorKey
+_AFNetworkingTaskDidCompleteAssetPathKey
+_AFNetworkingTaskDidFinishSerializedResponseKey
+_AFNetworkingTaskDidFinishResponseSerializerKey
+_AFNetworkingTaskDidFinishResponseDataKey
+_AFNetworkingTaskDidFinishErrorKey
+_AFNetworkingTaskDidFinishAssetPathKey
+_OBJC_CLASS_$_AFURLSessionManagerTaskDelegate
+___block_descriptor_48_e8_32s40r_e5_v8?0l
+___block_descriptor_72_e8_32s40s48s56r64r_e5_v8?0l
+___block_descriptor_80_e8_32s40s48s56s64r72r_e5_v8?0l
+__OBJC_PROTOCOL_$_NSURLSessionDataDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDataDelegate
+__OBJC_PROTOCOL_$_NSURLSessionDownloadDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDownloadDelegate
+_OBJC_METACLASS_$_AFURLSessionManagerTaskDelegate
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._manager
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._mutableData
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._progress
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._downloadFileURL
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._downloadTaskDidFinishDownloading
+_OBJC_IVAR_$_AFURLSessionManagerTaskDelegate._completionHandler
+_OBJC_METACLASS_$__AFURLSessionTaskSwizzling
+_OBJC_CLASS_$__AFURLSessionTaskSwizzling
+___block_descriptor_40_e8_32s_e41_v32?0"NSArray"8"NSArray"16"NSArray"24l
+___block_descriptor_40_e8_32bs_e68_"NSURL"32?0"NSURLSession"8"NSURLSessionDownloadTask"16"NSURL"24l
+___block_descriptor_56_e8_32s40s48r_e41_v32?0"NSArray"8"NSArray"16"NSArray"24l
+___block_descriptor_41_e8_32s_e5_v8?0l
+___block_descriptor_56_e8_32s40s48r_e5_v8?0l
+___block_descriptor_64_e8_32s40s48s56r_e5_v8?0l
+l_OBJC_PROTOCOL_REFERENCE_$_NSCopying
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_IVAR_$_AFURLSessionManager._attemptsToRecreateUploadTasksForBackgroundSessions
+_OBJC_IVAR_$_AFURLSessionManager._session
+_OBJC_IVAR_$_AFURLSessionManager._operationQueue
+_OBJC_IVAR_$_AFURLSessionManager._responseSerializer
+_OBJC_IVAR_$_AFURLSessionManager._securityPolicy
+_OBJC_IVAR_$_AFURLSessionManager._reachabilityManager
+_OBJC_IVAR_$_AFURLSessionManager._completionQueue
+_OBJC_IVAR_$_AFURLSessionManager._completionGroup
+_OBJC_IVAR_$_AFURLSessionManager._sessionConfiguration
+_OBJC_IVAR_$_AFURLSessionManager._mutableTaskDelegatesKeyedByTaskIdentifier
+_OBJC_IVAR_$_AFURLSessionManager._lock
+_OBJC_IVAR_$_AFURLSessionManager._sessionDidBecomeInvalid
+_OBJC_IVAR_$_AFURLSessionManager._sessionDidReceiveAuthenticationChallenge
+_OBJC_IVAR_$_AFURLSessionManager._didFinishEventsForBackgroundURLSession
+_OBJC_IVAR_$_AFURLSessionManager._taskWillPerformHTTPRedirection
+_OBJC_IVAR_$_AFURLSessionManager._taskDidReceiveAuthenticationChallenge
+_OBJC_IVAR_$_AFURLSessionManager._taskNeedNewBodyStream
+_OBJC_IVAR_$_AFURLSessionManager._taskDidSendBodyData
+_OBJC_IVAR_$_AFURLSessionManager._taskDidComplete
+_OBJC_IVAR_$_AFURLSessionManager._dataTaskDidReceiveResponse
+_OBJC_IVAR_$_AFURLSessionManager._dataTaskDidBecomeDownloadTask
+_OBJC_IVAR_$_AFURLSessionManager._dataTaskDidReceiveData
+_OBJC_IVAR_$_AFURLSessionManager._dataTaskWillCacheResponse
+_OBJC_IVAR_$_AFURLSessionManager._downloadTaskDidFinishDownloading
+_OBJC_IVAR_$_AFURLSessionManager._downloadTaskDidWriteData
+_OBJC_IVAR_$_AFURLSessionManager._downloadTaskDidResume
+_url_session_manager_completion_group.af_url_session_manager_completion_group
+_url_session_manager_completion_group.onceToken
+_url_session_manager_processing_queue.af_url_session_manager_processing_queue
+_url_session_manager_processing_queue.onceToken
+___block_literal_global.642
+_url_session_manager_creation_queue.af_url_session_manager_creation_queue
+_url_session_manager_creation_queue.onceToken
+___block_literal_global.644
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+__url_session_manager_creation_queue_block_invoke
+AFNetworking/AFNetworking/AFURLSessionManager.m
+url_session_manager_creation_queue
+__url_session_manager_processing_queue_block_invoke
+__url_session_manager_completion_group_block_invoke
+url_session_manager_completion_group
+AFNetworking/AFNetworking/AFURLSessionManager.h
+__72-[AFURLSessionManager URLSessionDidFinishEventsForBackgroundURLSession:]_block_invoke
+__89-[AFURLSessionManager downloadTaskWithResumeData:progress:destination:completionHandler:]_block_invoke
+__86-[AFURLSessionManager downloadTaskWithRequest:progress:destination:completionHandler:]_block_invoke
+__80-[AFURLSessionManager uploadTaskWithStreamedRequest:progress:completionHandler:]_block_invoke
+__81-[AFURLSessionManager uploadTaskWithRequest:fromData:progress:completionHandler:]_block_invoke
+__copy_helper_block_e8_32s40s48s56r
+__81-[AFURLSessionManager uploadTaskWithRequest:fromFile:progress:completionHandler:]_block_invoke
+__61-[AFURLSessionManager dataTaskWithRequest:completionHandler:]_block_invoke
+__55-[AFURLSessionManager invalidateSessionCancelingTasks:]_block_invoke
+__copy_helper_block_e8_32s40s48r
+__39-[AFURLSessionManager tasksForKeyPath:]_block_invoke
+__89-[AFURLSessionManager addDelegateForDownloadTask:progress:destination:completionHandler:]_block_invoke
+__75-[AFURLSessionManager addDelegateForUploadTask:progress:completionHandler:]_block_invoke_2
+__75-[AFURLSessionManager addDelegateForUploadTask:progress:completionHandler:]_block_invoke
+__38-[AFURLSessionManager taskDidSuspend:]_block_invoke
+__37-[AFURLSessionManager taskDidResume:]_block_invoke
+__52-[AFURLSessionManager initWithSessionConfiguration:]_block_invoke
+af_swizzleSelector
+af_addMethod
+__destroy_helper_block_e8_32s40s48s56s64r72r
+__copy_helper_block_e8_32s40s48s56s64r72r
+__72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_3
+__72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_2.68
+__72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke.65
+__destroy_helper_block_e8_32s40s48s56r64r
+__copy_helper_block_e8_32s40s48s56r64r
+__copy_helper_block_e8_32s40r
+__72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke_2
+__72-[AFURLSessionManagerTaskDelegate URLSession:task:didCompleteWithError:]_block_invoke
+url_session_manager_processing_queue
+-[UIActivityIndicatorView(AFNetworking) af_notificationObserver]
+-[UIActivityIndicatorView(AFNetworking) setAnimatingWithStateOfTask:]
+-[UIActivityIndicatorView(AFNetworking) setAnimatingWithStateOfOperation:]
+-[AFActivityIndicatorViewNotificationObserver initWithActivityIndicatorView:]
+-[AFActivityIndicatorViewNotificationObserver setAnimatingWithStateOfTask:]
+-[AFActivityIndicatorViewNotificationObserver setAnimatingWithStateOfOperation:]
+-[AFActivityIndicatorViewNotificationObserver af_startAnimating]
+___64-[AFActivityIndicatorViewNotificationObserver af_startAnimating]_block_invoke
+-[AFActivityIndicatorViewNotificationObserver af_stopAnimating]
+___63-[AFActivityIndicatorViewNotificationObserver af_stopAnimating]_block_invoke
+-[AFActivityIndicatorViewNotificationObserver dealloc]
+-[AFActivityIndicatorViewNotificationObserver activityIndicatorView]
+-[AFActivityIndicatorViewNotificationObserver .cxx_destruct]
+_OBJC_CLASS_$_AFActivityIndicatorViewNotificationObserver
+_OBJC_METACLASS_$_AFActivityIndicatorViewNotificationObserver
+_OBJC_IVAR_$_AFActivityIndicatorViewNotificationObserver._activityIndicatorView
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+__63-[AFActivityIndicatorViewNotificationObserver af_stopAnimating]_block_invoke
+__64-[AFActivityIndicatorViewNotificationObserver af_startAnimating]_block_invoke
++[UIAlertView(AFNetworking) showAlertViewForTaskWithErrorOnCompletion:delegate:]
++[UIAlertView(AFNetworking) showAlertViewForTaskWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]
+___116+[UIAlertView(AFNetworking) showAlertViewForTaskWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]_block_invoke
+_AFGetAlertViewTitleAndMessageFromError
++[UIAlertView(AFNetworking) showAlertViewForRequestOperationWithErrorOnCompletion:delegate:]
++[UIAlertView(AFNetworking) showAlertViewForRequestOperationWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]
+___128+[UIAlertView(AFNetworking) showAlertViewForRequestOperationWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]_block_invoke
+___block_descriptor_64_e8_32s40s48s56r_e24_v16?0"NSNotification"8l
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+__128+[UIAlertView(AFNetworking) showAlertViewForRequestOperationWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]_block_invoke
+AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+AFGetAlertViewTitleAndMessageFromError
+__116+[UIAlertView(AFNetworking) showAlertViewForTaskWithErrorOnCompletion:delegate:cancelButtonTitle:otherButtonTitles:]_block_invoke
++[UIButton(_AFNetworking) af_sharedImageRequestOperationQueue]
+___62+[UIButton(_AFNetworking) af_sharedImageRequestOperationQueue]_block_invoke
+-[UIButton(_AFNetworking) af_imageRequestOperationForState:]
+-[UIButton(_AFNetworking) af_setImageRequestOperation:forState:]
+-[UIButton(_AFNetworking) af_backgroundImageRequestOperationForState:]
+-[UIButton(_AFNetworking) af_setBackgroundImageRequestOperation:forState:]
++[UIButton(AFNetworking) sharedImageCache]
++[UIButton(AFNetworking) setSharedImageCache:]
+-[UIButton(AFNetworking) imageResponseSerializer]
+___49-[UIButton(AFNetworking) imageResponseSerializer]_block_invoke
+-[UIButton(AFNetworking) setImageResponseSerializer:]
+-[UIButton(AFNetworking) setImageForState:withURL:]
+-[UIButton(AFNetworking) setImageForState:withURL:placeholderImage:]
+-[UIButton(AFNetworking) setImageForState:withURLRequest:placeholderImage:success:failure:]
+___91-[UIButton(AFNetworking) setImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke
+___copy_helper_block_e8_32s40b48w
+___destroy_helper_block_e8_32s40s48w
+___91-[UIButton(AFNetworking) setImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke.56
+-[UIButton(AFNetworking) setBackgroundImageForState:withURL:]
+-[UIButton(AFNetworking) setBackgroundImageForState:withURL:placeholderImage:]
+-[UIButton(AFNetworking) setBackgroundImageForState:withURLRequest:placeholderImage:success:failure:]
+___101-[UIButton(AFNetworking) setBackgroundImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke
+___101-[UIButton(AFNetworking) setBackgroundImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke_2
+-[UIButton(AFNetworking) cancelImageRequestOperationForState:]
+-[UIButton(AFNetworking) cancelBackgroundImageRequestOperationForState:]
+_af_sharedImageRequestOperationQueue._af_sharedImageRequestOperationQueue
+_af_sharedImageRequestOperationQueue.onceToken
+_imageResponseSerializer._af_defaultImageResponseSerializer
+_imageResponseSerializer.onceToken
+___block_literal_global.13
+___block_descriptor_64_e8_32s40bs48w_e35_v24?0"AFHTTPRequestOperation"816l
+___block_descriptor_48_e8_32s40bs_e44_v24?0"AFHTTPRequestOperation"8"NSError"16l
+_AFImageRequestOperationHighlighted
+_AFImageRequestOperationSelected
+_AFImageRequestOperationDisabled
+_AFImageRequestOperationNormal
+_AFBackgroundImageRequestOperationHighlighted
+_AFBackgroundImageRequestOperationSelected
+_AFBackgroundImageRequestOperationDisabled
+_AFBackgroundImageRequestOperationNormal
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+__101-[UIButton(AFNetworking) setBackgroundImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke_2
+__101-[UIButton(AFNetworking) setBackgroundImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke
+__91-[UIButton(AFNetworking) setImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke.56
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32s40b48w
+__91-[UIButton(AFNetworking) setImageForState:withURLRequest:placeholderImage:success:failure:]_block_invoke
+__49-[UIButton(AFNetworking) imageResponseSerializer]_block_invoke
+af_backgroundImageRequestOperationKeyForState
+af_imageRequestOperationKeyForState
+__62+[UIButton(_AFNetworking) af_sharedImageRequestOperationQueue]_block_invoke
++[UIImageView(_AFNetworking) af_sharedImageRequestOperationQueue]
+___65+[UIImageView(_AFNetworking) af_sharedImageRequestOperationQueue]_block_invoke
+-[UIImageView(_AFNetworking) af_imageRequestOperation]
+-[UIImageView(_AFNetworking) af_setImageRequestOperation:]
++[UIImageView(AFNetworking) sharedImageCache]
+___45+[UIImageView(AFNetworking) sharedImageCache]_block_invoke
+___45+[UIImageView(AFNetworking) sharedImageCache]_block_invoke_2
++[UIImageView(AFNetworking) setSharedImageCache:]
+-[UIImageView(AFNetworking) imageResponseSerializer]
+___52-[UIImageView(AFNetworking) imageResponseSerializer]_block_invoke
+-[UIImageView(AFNetworking) setImageResponseSerializer:]
+-[UIImageView(AFNetworking) setImageWithURL:]
+-[UIImageView(AFNetworking) setImageWithURL:placeholderImage:]
+-[UIImageView(AFNetworking) setImageWithURLRequest:placeholderImage:success:failure:]
+___85-[UIImageView(AFNetworking) setImageWithURLRequest:placeholderImage:success:failure:]_block_invoke
+___85-[UIImageView(AFNetworking) setImageWithURLRequest:placeholderImage:success:failure:]_block_invoke.67
+-[UIImageView(AFNetworking) cancelImageRequestOperation]
+-[AFImageCache cachedImageForRequest:]
+-[AFImageCache cacheImage:forRequest:]
+_sharedImageCache._af_defaultImageCache
+_sharedImageCache.oncePredicate
+___block_literal_global.9
+_OBJC_CLASS_$_AFImageCache
+___block_descriptor_32_e24_v16?0"NSNotification"8l
+___block_literal_global.17
+___block_literal_global.24
+___block_descriptor_56_e8_32s40bs48w_e35_v24?0"AFHTTPRequestOperation"816l
+___block_descriptor_56_e8_32s40bs48w_e44_v24?0"AFHTTPRequestOperation"8"NSError"16l
+__OBJC_PROTOCOL_$_AFImageCache
+__OBJC_LABEL_PROTOCOL_$_AFImageCache
+_OBJC_METACLASS_$_AFImageCache
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+AFImageCacheKeyFromURLRequest
+__85-[UIImageView(AFNetworking) setImageWithURLRequest:placeholderImage:success:failure:]_block_invoke.67
+__85-[UIImageView(AFNetworking) setImageWithURLRequest:placeholderImage:success:failure:]_block_invoke
+__52-[UIImageView(AFNetworking) imageResponseSerializer]_block_invoke
+__45+[UIImageView(AFNetworking) sharedImageCache]_block_invoke_2
+__45+[UIImageView(AFNetworking) sharedImageCache]_block_invoke
+__65+[UIImageView(_AFNetworking) af_sharedImageRequestOperationQueue]_block_invoke
+-[UIProgressView(AFNetworking) af_uploadProgressAnimated]
+-[UIProgressView(AFNetworking) af_setUploadProgressAnimated:]
+-[UIProgressView(AFNetworking) af_downloadProgressAnimated]
+-[UIProgressView(AFNetworking) af_setDownloadProgressAnimated:]
+-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfTask:animated:]
+-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfTask:animated:]
+-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfOperation:animated:]
+___82-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfOperation:animated:]_block_invoke
+___82-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfOperation:animated:]_block_invoke_2
+-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfOperation:animated:]
+___84-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfOperation:animated:]_block_invoke
+___84-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfOperation:animated:]_block_invoke_2
+-[UIProgressView(AFNetworking) observeValueForKeyPath:ofObject:change:context:]
+___79-[UIProgressView(AFNetworking) observeValueForKeyPath:ofObject:change:context:]_block_invoke
+___79-[UIProgressView(AFNetworking) observeValueForKeyPath:ofObject:change:context:]_block_invoke.47
+_AFTaskCountOfBytesSentContext
+_AFTaskCountOfBytesReceivedContext
+___block_descriptor_57_e8_32w_e5_v8?0l
+___block_descriptor_49_e8_32bs40w_e14_v32?0Q8q16q24l
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+__79-[UIProgressView(AFNetworking) observeValueForKeyPath:ofObject:change:context:]_block_invoke.47
+AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+__79-[UIProgressView(AFNetworking) observeValueForKeyPath:ofObject:change:context:]_block_invoke
+__84-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfOperation:animated:]_block_invoke_2
+__84-[UIProgressView(AFNetworking) setProgressWithDownloadProgressOfOperation:animated:]_block_invoke
+__82-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfOperation:animated:]_block_invoke_2
+__82-[UIProgressView(AFNetworking) setProgressWithUploadProgressOfOperation:animated:]_block_invoke
+-[UIRefreshControl(AFNetworking) af_notificationObserver]
+-[UIRefreshControl(AFNetworking) setRefreshingWithStateOfTask:]
+-[UIRefreshControl(AFNetworking) setRefreshingWithStateOfOperation:]
+-[AFRefreshControlNotificationObserver initWithActivityRefreshControl:]
+-[AFRefreshControlNotificationObserver setRefreshingWithStateOfTask:]
+-[AFRefreshControlNotificationObserver setRefreshingWithStateOfOperation:]
+-[AFRefreshControlNotificationObserver af_beginRefreshing]
+___58-[AFRefreshControlNotificationObserver af_beginRefreshing]_block_invoke
+-[AFRefreshControlNotificationObserver af_endRefreshing]
+___56-[AFRefreshControlNotificationObserver af_endRefreshing]_block_invoke
+-[AFRefreshControlNotificationObserver dealloc]
+-[AFRefreshControlNotificationObserver refreshControl]
+-[AFRefreshControlNotificationObserver .cxx_destruct]
+_OBJC_CLASS_$_AFRefreshControlNotificationObserver
+_OBJC_METACLASS_$_AFRefreshControlNotificationObserver
+_OBJC_IVAR_$_AFRefreshControlNotificationObserver._refreshControl
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+__56-[AFRefreshControlNotificationObserver af_endRefreshing]_block_invoke
+__58-[AFRefreshControlNotificationObserver af_beginRefreshing]_block_invoke
+-[UIWebView(_AFNetworking) af_HTTPRequestOperation]
+-[UIWebView(_AFNetworking) af_setHTTPRequestOperation:]
+-[UIWebView(AFNetworking) requestSerializer]
+___44-[UIWebView(AFNetworking) requestSerializer]_block_invoke
+-[UIWebView(AFNetworking) setRequestSerializer:]
+-[UIWebView(AFNetworking) responseSerializer]
+___45-[UIWebView(AFNetworking) responseSerializer]_block_invoke
+-[UIWebView(AFNetworking) setResponseSerializer:]
+-[UIWebView(AFNetworking) loadRequest:progress:success:failure:]
+___64-[UIWebView(AFNetworking) loadRequest:progress:success:failure:]_block_invoke
+-[UIWebView(AFNetworking) loadRequest:MIMEType:textEncodingName:progress:success:failure:]
+___90-[UIWebView(AFNetworking) loadRequest:MIMEType:textEncodingName:progress:success:failure:]_block_invoke
+___copy_helper_block_e8_32b40s48s56w
+___destroy_helper_block_e8_32s40s48s56w
+___90-[UIWebView(AFNetworking) loadRequest:MIMEType:textEncodingName:progress:success:failure:]_block_invoke.51
+_requestSerializer._af_defaultRequestSerializer
+_requestSerializer.onceToken
+_responseSerializer._af_defaultResponseSerializer
+_responseSerializer.onceToken
+___block_literal_global.8
+___block_descriptor_40_e8_32bs_e46_"NSData"24?0"NSHTTPURLResponse"8"NSData"16l
+___block_descriptor_64_e8_32bs40s48s56w_e35_v24?0"AFHTTPRequestOperation"816l
+___block_descriptor_40_e8_32bs_e44_v24?0"AFHTTPRequestOperation"8"NSError"16l
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+__90-[UIWebView(AFNetworking) loadRequest:MIMEType:textEncodingName:progress:success:failure:]_block_invoke.51
+AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+__destroy_helper_block_e8_32s40s48s56w
+__copy_helper_block_e8_32b40s48s56w
+__90-[UIWebView(AFNetworking) loadRequest:MIMEType:textEncodingName:progress:success:failure:]_block_invoke
+__64-[UIWebView(AFNetworking) loadRequest:progress:success:failure:]_block_invoke
+__45-[UIWebView(AFNetworking) responseSerializer]_block_invoke
+__44-[UIWebView(AFNetworking) requestSerializer]_block_invoke
+_OBJC_METACLASS_$_PodsDummy_Pods_SSL_pinning_iOS
+_OBJC_CLASS_$_PodsDummy_Pods_SSL_pinning_iOS
+/Users/gunasegarran/Documents/SSL-Pinning/Pods/Target Support Files/Pods-SSL pinning iOS/Pods-SSL pinning iOS-dummy.m
+__ZL15__ARCLite__loadv
+__ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+__ZL22add_image_hook_swiftV1PK11mach_headerl
+__ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+__ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+__ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+__ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+__ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+__ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+__ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+__ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+__ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+__ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+__ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+__ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+__ZL32__arclite_object_getIndexedIvarsP11objc_object
+__ZL23__arclite_objc_getClassPKc
+__ZL27__arclite_objc_getMetaClassPKc
+__ZL31__arclite_objc_getRequiredClassPKc
+__ZL26__arclite_objc_lookUpClassPKc
+__ZL26__arclite_objc_getProtocolPKc
+__ZL23__arclite_class_getNameP10objc_class
+__ZL26__arclite_protocol_getNameP8Protocol
+__ZL37__arclite_objc_copyClassNamesForImagePKcPj
+__ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+__ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+__ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+__ZL14initialize_impP11objc_objectP13objc_selector
+__ZL18allocateMaybeSwiftP18glue_swift_class_tm
+__ZL22copySwiftV1MangledNamePKcb
+__ZL13demangledNamePKcb
+__ZL16scanMangledFieldRPKcS0_S1_Ri
+__ZL30arclite_uninitialized_functionv
+__ZL12cxxConstructP11objc_object
+__ZL20fixStringForCoreDataP11objc_object
+_OBJC_METACLASS_$___ARCLite__
+__ZL24OBJC_CLASS_$___ARCLite__
+__ZL31OBJC_METACLASS_RO_$___ARCLite__
+__non_lazy_classes
+__ZL27OBJC_CLASS_RO_$___ARCLite__
+__ZL11_class_name
+__ZL32OBJC_$_CLASS_METHODS___ARCLite__
+__ZL17_load_method_name
+__ZL17_load_method_type
+__OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+__OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+__ZL30NSUndoManagerProxy_targetClass
+__ZL29original_NSManagedObject_init
+__ZL40original_NSManagedObject_allocWithEntity
+__ZL35original_NSManagedObject_allocBatch
+__ZL25NSMutableDictionary_class
+__ZL22NSConstantString_class
+__ZL14NSString_class
+__ZL36original_NSKKMS_fastIndexForKnownKey
+__ZL27original_NSKKMS_indexForKey
+__ZL28original_NSKKsD_objectForKey
+__ZL34original_NSKKsD_removeObjectForKey
+__ZL32original_NSKKsD_setObject_forKey
+__ZL40original_NSKKsD_addEntriesFromDictionary
+__ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZL31original_objc_allocateClassPair
+__ZL31original_object_getIndexedIvars
+__ZL22original_objc_getClass
+__ZL26original_objc_getMetaClass
+__ZL30original_objc_getRequiredClass
+__ZL25original_objc_lookUpClass
+__ZL25original_objc_getProtocol
+__ZL22original_class_getName
+__ZL25original_protocol_getName
+__ZL36original_objc_copyClassNamesForImage
+__ZL12demangleLock
+__ZL9Demangled
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ --target=arm64-apple-ios4.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -fno-sanitize=vptr -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-objc-interface-ivars -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -D OBJC_OLD_DISPATCH_PROTOTYPES=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fno-threadsafe-statics -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -fembed-bitcode=all -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources-normal/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -Wno-framework-include-private-from-public -Wno-atimport-in-framework-header -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=530
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76
+fixStringForCoreData
+source/arclite.mm
+cxxConstruct
+arclite_uninitialized_function
+scanMangledField
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.0.Internal.sdk/usr/include/_ctype.h
+__isctype
+demangledName
+copySwiftV1DemangledName
+copySwiftV1MangledName
+allocateMaybeSwift
+word_align
+isSwift
+initialize_imp
+transcribeProperties
+property_list_nth
+transcribeProtocols
+transcribeMethods
+data
+method_list_nth
+__arclite_objc_copyClassNamesForImage
+__arclite_protocol_getName
+__arclite_class_getName
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+__arclite_objc_getClass
+__arclite_object_getIndexedIvars
+__arclite_objc_allocateClassPair
+metaclass
+__arclite_objc_readClassPair
+transcribeIvars
+ivar_list_nth
+max
+alignment
+ro
+fastFlags
+__arclite_NSKKsD_addEntriesFromDictionary
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+__arclite_NSManagedObject_init
+__arclite_NSUndoManagerProxy_isKindOfClass
+add_image_hook_swiftV1
+patch_lazy_pointers
+patch_t<const char **(const char *, unsigned int *)>
+patch_t<const char *(Protocol *)>
+patch_t<const char *(Class)>
+patch_t<Protocol *(const char *)>
+patch_t<Class (const char *)>
+patch_t<void *(id)>
+patch_t<Class (Class, const char *, unsigned long)>
+patch_t<Class (Class, const objc_image_info *)>
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+__ARCLite__load
+install_swiftV1
+replaceMethod
+install_dict_nil_value
+addOrReplaceMethod
+keyedGetter

@@ -32,7 +32,7 @@
     manager.securityPolicy = policy;
 
     // old cert
-    NSString *pathToCert1 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my" ofType:@"cer"];
+    NSString *pathToCert1 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my_old" ofType:@"cer"];
     NSData *localCertificate1 = [NSData dataWithContentsOfFile:pathToCert1];
 
     
@@ -40,7 +40,13 @@
     NSString *pathToCert2 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my_new" ofType:@"cer"];
     NSData *localCertificate2 = [NSData dataWithContentsOfFile:pathToCert2];
     
-    manager.securityPolicy.pinnedCertificates = @[localCertificate1,localCertificate1];
+    // concatenate cert
+    NSString *pathToCert3 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my" ofType:@"cer"];
+    NSData *localCertificate3 = [NSData dataWithContentsOfFile:pathToCert3];
+    
+    
+    
+    manager.securityPolicy.pinnedCertificates = @[localCertificate3];
     
     
     
