@@ -8,9 +8,5 @@
 	<string>C3CBHTX5N7</string>
 	<key>get-task-allow</key>
 	<false/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>C3CBHTX5N7.my.com.aia.UAT.pbDirectAI</string>
-	</array>
 </dict>
 </plist>
