@@ -15,9 +15,9 @@
 		49D0477E1B2B08F6006F4AC1 /* SSL_pinning_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D0477D1B2B08F6006F4AC1 /* SSL_pinning_iOSTests.m */; };
 		49D047901B2B110D006F4AC1 /* AFNetworkingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D0478F1B2B110D006F4AC1 /* AFNetworkingViewController.m */; };
 		49D047931B2B113D006F4AC1 /* NSURLSessionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D047921B2B113D006F4AC1 /* NSURLSessionViewController.m */; };
-		AD33FC0923EBAFCA007E164A /* www.pbdirectaia.com.my.cer in Resources */ = {isa = PBXBuildFile; fileRef = AD33FC0823EBAFCA007E164A /* www.pbdirectaia.com.my.cer */; };
-		AD33FC0B23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer in Resources */ = {isa = PBXBuildFile; fileRef = AD33FC0A23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer */; };
-		ADF0104F2430E66400B676E8 /* www.pbdirectaia.com.my old.cer in Resources */ = {isa = PBXBuildFile; fileRef = ADF0104C2430E66400B676E8 /* www.pbdirectaia.com.my old.cer */; };
+		ADF010562431C40800B676E8 /* www.pbdirectaia.com.my old.cer in Resources */ = {isa = PBXBuildFile; fileRef = ADF010532431C40800B676E8 /* www.pbdirectaia.com.my old.cer */; };
+		ADF010572431C40800B676E8 /* www.pbdirectaia.com.my.cer in Resources */ = {isa = PBXBuildFile; fileRef = ADF010542431C40800B676E8 /* www.pbdirectaia.com.my.cer */; };
+		ADF010582431C40800B676E8 /* www.pbdirectaia.com.my_new.cer in Resources */ = {isa = PBXBuildFile; fileRef = ADF010552431C40800B676E8 /* www.pbdirectaia.com.my_new.cer */; };
 		BDE5016E049437FE71624B49 /* libPods-SSL pinning iOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0255776D3810883CCD04ADA0 /* libPods-SSL pinning iOS.a */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +56,9 @@
 		ADF0104D2430E66400B676E8 /* www.pbdirectaia.com.my_new.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my_new.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my_new.cer"; sourceTree = "<group>"; };
 		ADF0104E2430E66400B676E8 /* www.pbdirectaia.com.my.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my.cer"; sourceTree = "<group>"; };
 		ADF010502430EBD100B676E8 /* PBDirect SSL Pinning.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "PBDirect SSL Pinning.entitlements"; sourceTree = "<group>"; };
+		ADF010532431C40800B676E8 /* www.pbdirectaia.com.my old.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = "www.pbdirectaia.com.my old.cer"; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my old.cer"; sourceTree = "<group>"; };
+		ADF010542431C40800B676E8 /* www.pbdirectaia.com.my.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my.cer"; sourceTree = "<group>"; };
+		ADF010552431C40800B676E8 /* www.pbdirectaia.com.my_new.cer */ = {isa = PBXFileReference; lastKnownFileType = file; name = www.pbdirectaia.com.my_new.cer; path = "SSL pinning iOS/Resouces/www.pbdirectaia.com.my_new.cer"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +102,10 @@
 			children = (
 				ADF0104C2430E66400B676E8 /* www.pbdirectaia.com.my old.cer */,
 				ADF0104D2430E66400B676E8 /* www.pbdirectaia.com.my_new.cer */,
+				ADF010552431C40800B676E8 /* www.pbdirectaia.com.my_new.cer */,
 				ADF0104E2430E66400B676E8 /* www.pbdirectaia.com.my.cer */,
+				ADF010532431C40800B676E8 /* www.pbdirectaia.com.my old.cer */,
+				ADF010542431C40800B676E8 /* www.pbdirectaia.com.my.cer */,
 				49D047601B2B08F6006F4AC1 /* SSL pinning iOS */,
 				49D0477A1B2B08F6006F4AC1 /* SSL pinning iOSTests */,
 				49D0475F1B2B08F6006F4AC1 /* Products */,
@@ -265,9 +271,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADF0104F2430E66400B676E8 /* www.pbdirectaia.com.my old.cer in Resources */,
-				AD33FC0B23EBB0CA007E164A /* www.pbdirectaia.com.my_new.cer in Resources */,
-				AD33FC0923EBAFCA007E164A /* www.pbdirectaia.com.my.cer in Resources */,
+				ADF010562431C40800B676E8 /* www.pbdirectaia.com.my old.cer in Resources */,
+				ADF010572431C40800B676E8 /* www.pbdirectaia.com.my.cer in Resources */,
+				ADF010582431C40800B676E8 /* www.pbdirectaia.com.my_new.cer in Resources */,
 				49D0476D1B2B08F6006F4AC1 /* Main.storyboard in Resources */,
 				49D047721B2B08F6006F4AC1 /* LaunchScreen.xib in Resources */,
 				49D0476F1B2B08F6006F4AC1 /* Images.xcassets in Resources */,
