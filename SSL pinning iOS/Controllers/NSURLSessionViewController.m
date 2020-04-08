@@ -59,30 +59,22 @@
     // Get local and remote cert data
     NSData *remoteCertificateData = CFBridgingRelease(SecCertificateCopyData(certificate));
     
-    // old cert
-    NSString *pathToCert1 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my_old" ofType:@"cer"];
+    NSString *pathToCert1 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my" ofType:@"cer"];
     
-    // new cert
     NSString *pathToCert2 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my_new" ofType:@"cer"];
-    
-    // concatenate cert
-    NSString *pathToCert3 = [[NSBundle mainBundle]pathForResource:@"www.pbdirectaia.com.my" ofType:@"cer"];
     
     
     NSData *localCertificate1 = [NSData dataWithContentsOfFile:pathToCert1];
     NSData *localCertificate2 = [NSData dataWithContentsOfFile:pathToCert2];
-    NSData *localCertificate3 = [NSData dataWithContentsOfFile:pathToCert3];
     
     // The pinnning check
-    if ([remoteCertificateData isEqualToData:localCertificate3] && certificateIsValid) {
+    if ([remoteCertificateData isEqualToData:localCertificate2] && certificateIsValid) {
         NSURLCredential *credential = [NSURLCredential credentialForTrust:serverTrust];
         completionHandler(NSURLSessionAuthChallengeUseCredential, credential);
-    }
-    //else if ([remoteCertificateData isEqualToData:localCertificate1] && certificateIsValid){
-    //NSURLCredential *credential = [NSURLCredential credentialForTrust:serverTrust];
-    //       completionHandler(NSURLSessionAuthChallengeUseCredential, credential);
-    //}
-    else{
+    }else if ([remoteCertificateData isEqualToData:localCertificate1] && certificateIsValid){
+    NSURLCredential *credential = [NSURLCredential credentialForTrust:serverTrust];
+           completionHandler(NSURLSessionAuthChallengeUseCredential, credential);
+}else{
         completionHandler(NSURLSessionAuthChallengeCancelAuthenticationChallenge, NULL);
     }
 }
