@@ -223,7 +223,7 @@
 					49D0475D1B2B08F6006F4AC1 = {
 						CreatedOnToolsVersion = 6.3.2;
 						DevelopmentTeam = 6PFK4MX4T4;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					49D047761B2B08F6006F4AC1 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -456,14 +456,14 @@
 			baseConfigurationReference = 40E577DC506EC9E4AE8F0B6D /* Pods-SSL pinning iOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6PFK4MX4T4;
 				INFOPLIST_FILE = "SSL pinning iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.ssl.pinning;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherlock3006.sslpinning;
 				PRODUCT_NAME = "SSL Pinning";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = "AIA-SLL Pinning";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -473,14 +473,14 @@
 			baseConfigurationReference = 546D70503AB8A72D59672842 /* Pods-SSL pinning iOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 6PFK4MX4T4;
 				INFOPLIST_FILE = "SSL pinning iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = my.com.aia.ssl.pinning;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherlock3006.sslpinning;
 				PRODUCT_NAME = "SSL Pinning";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = "AIA-SLL Pinning";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
